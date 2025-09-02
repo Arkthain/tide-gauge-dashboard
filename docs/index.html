@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tide Gauge Dashboard</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💧</text></svg>">
+</head>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/luxon@3/build/global/luxon.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-luxon@1"></script>
+<body>
+  <h1>Tide Gauge Viewer</h1>
+
+<form id="queryForm">
+  <label for="stationSelect">Select location:</label>
+  <select id="stationSelect" required></select>
+
+  <label for="startDate">Start date:</label>
+  <input type="date" id="startDate" required />
+
+  <label for="endDate">End date:</label>
+  <input type="date" id="endDate" />
+
+  <button type="submit">Get Tidal Data</button>
+</form>
+
+<canvas id="chart"></canvas>
+<div id="output"></div>
+
+  <section id="results">
+    <h2>Results</h2>
+    <div id="output"></div>
+    <canvas id="tideChart" width="800" height="600"></canvas>
+  </section>
+  <script src="app.js"></script>
+</body>
+</html>
