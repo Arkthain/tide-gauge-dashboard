@@ -9,7 +9,7 @@ const endDateInput = document.getElementById("endDate");
 let stationsList = [];
 // Load stations list from JSON
 async function loadStations() {
-  const res = await fetch('../data/stations.json');
+  const res = await fetch('/data/stations.json');
   if (!res.ok) {
     console.error('Failed to load stations.json:', res.status, res.statusText);
     return;
