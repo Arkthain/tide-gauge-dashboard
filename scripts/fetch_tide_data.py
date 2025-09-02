@@ -25,8 +25,8 @@ def fetch_tide_stations():
     return resp.json().get("items", [])
 
 def fetch_tide_data(station_id, start_date):
-    # end date = today in UTC
-    end_date = datetime.utcnow().strftime("%Y-%m-%d")
+    # end date = today
+    end_date = datetime.now().strftime("%Y-%m-%d")
 
     url = (
         f"{API_BASE}/id/stations/{station_id}/readings"

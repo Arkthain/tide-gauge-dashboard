@@ -9,7 +9,7 @@ const endDateInput = document.getElementById("endDate");
 let stationsList = [];
 // Load stations list from JSON
 async function loadStations() {
-  const res = await fetch('../data/stations.json');
+  const res = await fetch('/tide-gauge-dashboard/data/stations.json');
   if (!res.ok) {
     console.error('Failed to load stations.json:', res.status, res.statusText);
     return;
@@ -60,7 +60,7 @@ form.addEventListener('submit', async (e) => {
     const res = await fetch(`../data/${stationId}.json`);
     const data = await res.json();
 
-    // Filter readings between start & end
+    // Filter readings between start & end dates
     const readings = data.items.filter(r =>
       r.dateTime >= startDate && r.dateTime <= (endDate || startDate)
     );
@@ -70,7 +70,7 @@ form.addEventListener('submit', async (e) => {
       return;
     }
 
-    // ✅ Look up station name before using it
+    // Look up station name
     const station = stationsList.find(s => s.id === stationId);
     const stationName = station ? station.label : stationId;
 
@@ -81,7 +81,7 @@ form.addEventListener('submit', async (e) => {
       data: {
         labels: readings.map(r => r.dateTime),
         datasets: [{
-          label: `Tide Level (m) at ${stationName}`, // ✅ safe to use now
+          label: `Tide Level (m) at ${stationName}`,
           data: readings.map(r => r.value),
           borderColor: 'blue',
           tension: 0.1
