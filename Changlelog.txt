@@ -1,15 +1,32 @@
 Changelog
 
 V1 Initial commit - 02.09.2025
+
 Known issues;
 Local hosting port works but git pages servers folder structure differently
 Chart visual does not allow for a new selection to be generated without refreshing the page
 
+---------------------------------------------------------------------------------------------------------
+
 V1.1 commit - 02.09.2025
+
 Changes;
 Fixed some comment weirdness
 Changed fetch path in app.js to an absolute path
 Removed a depreciated use of utcnow on getting today's date in workflow
+
+Known issues;
+Local hosting port works but git pages servers folder structure differently
+Chart visual does not allow for a new selection to be generated without refreshing the page
+
+---------------------------------------------------------------------------------------------------------
+
+V1.1.1 commit - 02.09.2025
+
+Changes;
+Reverted change to fetch path
+Moved data folder into docs for git pages serving
+
 Known issues;
 Local hosting port works but git pages servers folder structure differently
 Chart visual does not allow for a new selection to be generated without refreshing the page
