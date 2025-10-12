@@ -7,10 +7,10 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ87_90/readings.csv?startdate=2025-08-01&enddate=2025-10-11",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ87_90/readings.rdf?startdate=2025-08-01&enddate=2025-10-11",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ87_90/readings.ttl?startdate=2025-08-01&enddate=2025-10-11",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ87_90/readings.html?startdate=2025-08-01&enddate=2025-10-11"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ87_90/readings.csv?startdate=2025-08-01&enddate=2025-10-12",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ87_90/readings.rdf?startdate=2025-08-01&enddate=2025-10-12",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ87_90/readings.ttl?startdate=2025-08-01&enddate=2025-10-12",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ87_90/readings.html?startdate=2025-08-01&enddate=2025-10-12"
     ],
     "limit": 500
   },
@@ -3008,6 +3008,12 @@
       "dateTime": "2025-10-09T20:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SJ87_90-level-groundwater-i-1_h-m",
       "value": 12.302
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SJ87_90-level-groundwater-i-1_h-m/2025-10-11T07-00-00Z",
+      "dateTime": "2025-10-11T07:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SJ87_90-level-groundwater-i-1_h-m",
+      "value": 12.303
     }
   ]
 }
