@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E21188/readings.csv?startdate=2025-08-01&enddate=2025-10-22",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E21188/readings.rdf?startdate=2025-08-01&enddate=2025-10-22",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E21188/readings.ttl?startdate=2025-08-01&enddate=2025-10-22",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E21188/readings.html?startdate=2025-08-01&enddate=2025-10-22"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E21188/readings.csv?startdate=2025-08-01&enddate=2025-10-23",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E21188/readings.rdf?startdate=2025-08-01&enddate=2025-10-23",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E21188/readings.ttl?startdate=2025-08-01&enddate=2025-10-23",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E21188/readings.html?startdate=2025-08-01&enddate=2025-10-23"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21188-flow-stage-i-15_min-m3_s/2025-09-23T10-45-00Z",
-      "dateTime": "2025-09-23T10:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E21188-flow-stage-i-15_min-m3_s",
-      "value": 0.285
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21188-flow-stage-i-15_min-m3_s/2025-08-12T19-15-00Z",
       "dateTime": "2025-08-12T19:15:00Z",
@@ -980,12 +974,6 @@
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21188-flow-stage-i-15_min-m3_s/2025-08-13T18-15-00Z",
       "dateTime": "2025-08-13T18:15:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E21188-flow-stage-i-15_min-m3_s"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21188-flow-stage-i-15_min-m3_s/2025-09-23T10-30-00Z",
-      "dateTime": "2025-09-23T10:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E21188-flow-stage-i-15_min-m3_s",
-      "value": 0.0
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21188-flow-stage-i-15_min-m3_s/2025-08-10T20-30-00Z",
@@ -2515,6 +2503,16 @@
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21188-flow-stage-i-15_min-m3_s/2025-08-22T15-30-00Z",
       "dateTime": "2025-08-22T15:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E21188-flow-stage-i-15_min-m3_s"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21188-flow-stage-i-15_min-m3_s/2025-08-22T12-45-00Z",
+      "dateTime": "2025-08-22T12:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E21188-flow-stage-i-15_min-m3_s"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21188-flow-stage-i-15_min-m3_s/2025-08-22T05-15-00Z",
+      "dateTime": "2025-08-22T05:15:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E21188-flow-stage-i-15_min-m3_s"
     }
   ]
