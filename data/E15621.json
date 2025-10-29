@@ -7,10 +7,10 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E15621/readings.csv?startdate=2025-08-01&enddate=2025-10-28",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E15621/readings.rdf?startdate=2025-08-01&enddate=2025-10-28",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E15621/readings.ttl?startdate=2025-08-01&enddate=2025-10-28",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E15621/readings.html?startdate=2025-08-01&enddate=2025-10-28"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E15621/readings.csv?startdate=2025-08-01&enddate=2025-10-29",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E15621/readings.rdf?startdate=2025-08-01&enddate=2025-10-29",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E15621/readings.ttl?startdate=2025-08-01&enddate=2025-10-29",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E15621/readings.html?startdate=2025-08-01&enddate=2025-10-29"
     ],
     "limit": 500
   },
@@ -20,12 +20,6 @@
       "dateTime": "2025-10-01T08:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E15621-flow--i-15_min-m3_s",
       "value": 0.805
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E15621-flow--i-15_min-m3_s/2025-09-29T23-45-03Z",
-      "dateTime": "2025-09-29T23:45:03Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E15621-flow--i-15_min-m3_s",
-      "value": 0.82
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E15621-flow--i-15_min-m3_s/2025-10-01T06-45-00Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2025-10-05T04:30:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E15621-flow--i-15_min-m3_s",
       "value": 2.595
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E15621-flow--i-15_min-m3_s/2025-10-05T04-45-00Z",
+      "dateTime": "2025-10-05T04:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E15621-flow--i-15_min-m3_s",
+      "value": 2.55
     }
   ]
 }
