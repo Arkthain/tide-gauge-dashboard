@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/0790TH/readings.csv?startdate=2025-08-01&enddate=2025-11-15",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/0790TH/readings.rdf?startdate=2025-08-01&enddate=2025-11-15",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/0790TH/readings.ttl?startdate=2025-08-01&enddate=2025-11-15",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/0790TH/readings.html?startdate=2025-08-01&enddate=2025-11-15"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/0790TH/readings.csv?startdate=2025-08-01&enddate=2025-11-16",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/0790TH/readings.rdf?startdate=2025-08-01&enddate=2025-11-16",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/0790TH/readings.ttl?startdate=2025-08-01&enddate=2025-11-16",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/0790TH/readings.html?startdate=2025-08-01&enddate=2025-11-16"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/0790TH-level-downstage-i-15_min-mASD/2025-10-17T00-00-00Z",
-      "dateTime": "2025-10-17T00:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/0790TH-level-downstage-i-15_min-mASD",
-      "value": 0.084
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/0790TH-level-downstage-i-15_min-mASD/2025-10-20T10-30-00Z",
       "dateTime": "2025-10-20T10:30:00Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2025-10-25T15:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/0790TH-level-downstage-i-15_min-mASD",
       "value": -0.066
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/0790TH-level-downstage-i-15_min-mASD/2025-10-25T15-15-00Z",
+      "dateTime": "2025-10-25T15:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/0790TH-level-downstage-i-15_min-mASD",
+      "value": -0.059
     }
   ]
 }
