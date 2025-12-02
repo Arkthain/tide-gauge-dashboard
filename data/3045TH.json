@@ -7,590 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/3045TH/readings.csv?startdate=2025-08-01&enddate=2025-12-01",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/3045TH/readings.rdf?startdate=2025-08-01&enddate=2025-12-01",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/3045TH/readings.ttl?startdate=2025-08-01&enddate=2025-12-01",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/3045TH/readings.html?startdate=2025-08-01&enddate=2025-12-01"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/3045TH/readings.csv?startdate=2025-08-01&enddate=2025-12-02",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/3045TH/readings.rdf?startdate=2025-08-01&enddate=2025-12-02",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/3045TH/readings.ttl?startdate=2025-08-01&enddate=2025-12-02",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/3045TH/readings.html?startdate=2025-08-01&enddate=2025-12-02"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T00-00-00Z",
-      "dateTime": "2025-11-02T00:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.802
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T00-15-00Z",
-      "dateTime": "2025-11-02T00:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.814
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T00-30-00Z",
-      "dateTime": "2025-11-02T00:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.799
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T00-45-00Z",
-      "dateTime": "2025-11-02T00:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.801
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T01-00-00Z",
-      "dateTime": "2025-11-02T01:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.797
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T01-30-00Z",
-      "dateTime": "2025-11-02T01:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.785
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T01-15-00Z",
-      "dateTime": "2025-11-02T01:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.796
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T01-45-00Z",
-      "dateTime": "2025-11-02T01:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.78
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T02-00-00Z",
-      "dateTime": "2025-11-02T02:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.772
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T02-15-00Z",
-      "dateTime": "2025-11-02T02:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.775
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T02-30-00Z",
-      "dateTime": "2025-11-02T02:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.765
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T02-45-00Z",
-      "dateTime": "2025-11-02T02:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.767
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T03-15-00Z",
-      "dateTime": "2025-11-02T03:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.75
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T03-00-00Z",
-      "dateTime": "2025-11-02T03:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.752
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T03-30-00Z",
-      "dateTime": "2025-11-02T03:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.741
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T03-45-00Z",
-      "dateTime": "2025-11-02T03:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.731
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T04-00-00Z",
-      "dateTime": "2025-11-02T04:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.731
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T04-15-00Z",
-      "dateTime": "2025-11-02T04:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.723
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T04-30-00Z",
-      "dateTime": "2025-11-02T04:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.713
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T04-45-00Z",
-      "dateTime": "2025-11-02T04:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.717
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T05-00-00Z",
-      "dateTime": "2025-11-02T05:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.705
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T05-15-00Z",
-      "dateTime": "2025-11-02T05:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.695
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T05-30-00Z",
-      "dateTime": "2025-11-02T05:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.693
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T05-45-00Z",
-      "dateTime": "2025-11-02T05:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.679
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T06-00-00Z",
-      "dateTime": "2025-11-02T06:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.68
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T06-15-00Z",
-      "dateTime": "2025-11-02T06:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.674
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T06-30-00Z",
-      "dateTime": "2025-11-02T06:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.668
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T06-45-00Z",
-      "dateTime": "2025-11-02T06:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.67
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T07-15-00Z",
-      "dateTime": "2025-11-02T07:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.66
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T07-00-00Z",
-      "dateTime": "2025-11-02T07:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.665
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T07-30-00Z",
-      "dateTime": "2025-11-02T07:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.66
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T07-45-00Z",
-      "dateTime": "2025-11-02T07:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.653
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T08-00-00Z",
-      "dateTime": "2025-11-02T08:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.647
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T08-15-00Z",
-      "dateTime": "2025-11-02T08:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.636
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T08-30-00Z",
-      "dateTime": "2025-11-02T08:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.633
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T08-45-00Z",
-      "dateTime": "2025-11-02T08:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.631
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T09-00-00Z",
-      "dateTime": "2025-11-02T09:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.625
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T09-15-00Z",
-      "dateTime": "2025-11-02T09:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.63
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T09-30-00Z",
-      "dateTime": "2025-11-02T09:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.62
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T09-45-00Z",
-      "dateTime": "2025-11-02T09:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.613
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T10-00-00Z",
-      "dateTime": "2025-11-02T10:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.615
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T10-15-00Z",
-      "dateTime": "2025-11-02T10:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.608
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T10-30-00Z",
-      "dateTime": "2025-11-02T10:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.602
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T11-00-00Z",
-      "dateTime": "2025-11-02T11:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.601
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T10-45-00Z",
-      "dateTime": "2025-11-02T10:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.6
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T11-15-00Z",
-      "dateTime": "2025-11-02T11:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.598
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T11-30-00Z",
-      "dateTime": "2025-11-02T11:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.588
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T11-45-00Z",
-      "dateTime": "2025-11-02T11:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.566
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T12-00-00Z",
-      "dateTime": "2025-11-02T12:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.559
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T12-15-00Z",
-      "dateTime": "2025-11-02T12:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.566
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T12-30-00Z",
-      "dateTime": "2025-11-02T12:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.558
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T12-45-00Z",
-      "dateTime": "2025-11-02T12:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.573
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T13-15-00Z",
-      "dateTime": "2025-11-02T13:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.583
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T13-00-00Z",
-      "dateTime": "2025-11-02T13:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.578
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T13-30-00Z",
-      "dateTime": "2025-11-02T13:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.579
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T13-45-00Z",
-      "dateTime": "2025-11-02T13:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.605
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T14-00-00Z",
-      "dateTime": "2025-11-02T14:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.593
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T14-15-00Z",
-      "dateTime": "2025-11-02T14:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.602
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T14-30-00Z",
-      "dateTime": "2025-11-02T14:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.599
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T14-45-00Z",
-      "dateTime": "2025-11-02T14:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.617
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T15-00-00Z",
-      "dateTime": "2025-11-02T15:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.611
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T15-15-00Z",
-      "dateTime": "2025-11-02T15:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.622
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T15-30-00Z",
-      "dateTime": "2025-11-02T15:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.625
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T15-45-00Z",
-      "dateTime": "2025-11-02T15:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.634
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T16-00-00Z",
-      "dateTime": "2025-11-02T16:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.633
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T16-15-00Z",
-      "dateTime": "2025-11-02T16:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.635
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T16-30-00Z",
-      "dateTime": "2025-11-02T16:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.631
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T16-45-00Z",
-      "dateTime": "2025-11-02T16:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.634
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T17-00-00Z",
-      "dateTime": "2025-11-02T17:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.633
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T17-15-00Z",
-      "dateTime": "2025-11-02T17:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.635
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T17-30-00Z",
-      "dateTime": "2025-11-02T17:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.624
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T17-45-00Z",
-      "dateTime": "2025-11-02T17:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.624
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T18-00-00Z",
-      "dateTime": "2025-11-02T18:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.633
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T18-15-00Z",
-      "dateTime": "2025-11-02T18:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.618
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T18-30-00Z",
-      "dateTime": "2025-11-02T18:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.635
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T18-45-00Z",
-      "dateTime": "2025-11-02T18:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.632
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T19-00-00Z",
-      "dateTime": "2025-11-02T19:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.626
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T19-15-00Z",
-      "dateTime": "2025-11-02T19:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.621
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T19-30-00Z",
-      "dateTime": "2025-11-02T19:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.623
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T19-45-00Z",
-      "dateTime": "2025-11-02T19:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.624
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T20-00-00Z",
-      "dateTime": "2025-11-02T20:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.624
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T20-15-00Z",
-      "dateTime": "2025-11-02T20:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.618
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T20-30-00Z",
-      "dateTime": "2025-11-02T20:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.613
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T20-45-00Z",
-      "dateTime": "2025-11-02T20:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.616
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T21-00-00Z",
-      "dateTime": "2025-11-02T21:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.626
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T21-15-00Z",
-      "dateTime": "2025-11-02T21:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.61
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T21-30-00Z",
-      "dateTime": "2025-11-02T21:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.614
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T22-30-00Z",
-      "dateTime": "2025-11-02T22:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.615
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T22-15-00Z",
-      "dateTime": "2025-11-02T22:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.611
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T22-00-00Z",
-      "dateTime": "2025-11-02T22:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.612
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T21-45-00Z",
-      "dateTime": "2025-11-02T21:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.609
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T22-45-00Z",
-      "dateTime": "2025-11-02T22:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.613
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T23-00-00Z",
-      "dateTime": "2025-11-02T23:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.612
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T23-15-00Z",
-      "dateTime": "2025-11-02T23:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.618
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T23-30-00Z",
-      "dateTime": "2025-11-02T23:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.605
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-02T23-45-00Z",
-      "dateTime": "2025-11-02T23:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
-      "value": 43.611
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-03T00-00-00Z",
       "dateTime": "2025-11-03T00:00:00Z",
@@ -3014,6 +2438,582 @@
       "dateTime": "2025-11-07T04:45:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
       "value": 43.401
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T05-00-00Z",
+      "dateTime": "2025-11-07T05:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.407
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T05-15-00Z",
+      "dateTime": "2025-11-07T05:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.405
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T05-30-00Z",
+      "dateTime": "2025-11-07T05:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.409
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T05-45-00Z",
+      "dateTime": "2025-11-07T05:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.407
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T06-00-00Z",
+      "dateTime": "2025-11-07T06:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.406
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T06-15-00Z",
+      "dateTime": "2025-11-07T06:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.404
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T06-30-00Z",
+      "dateTime": "2025-11-07T06:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.4
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T06-45-00Z",
+      "dateTime": "2025-11-07T06:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.402
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T07-00-00Z",
+      "dateTime": "2025-11-07T07:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.409
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T07-15-00Z",
+      "dateTime": "2025-11-07T07:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.408
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T07-30-00Z",
+      "dateTime": "2025-11-07T07:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.406
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T07-45-00Z",
+      "dateTime": "2025-11-07T07:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.406
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T08-00-00Z",
+      "dateTime": "2025-11-07T08:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.399
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T08-15-00Z",
+      "dateTime": "2025-11-07T08:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.408
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T08-30-00Z",
+      "dateTime": "2025-11-07T08:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.406
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T08-45-00Z",
+      "dateTime": "2025-11-07T08:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.407
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T09-00-00Z",
+      "dateTime": "2025-11-07T09:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.409
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T09-15-00Z",
+      "dateTime": "2025-11-07T09:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.382
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T09-30-00Z",
+      "dateTime": "2025-11-07T09:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.37
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T09-45-00Z",
+      "dateTime": "2025-11-07T09:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.375
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T10-00-00Z",
+      "dateTime": "2025-11-07T10:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.376
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T10-15-00Z",
+      "dateTime": "2025-11-07T10:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.378
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T10-30-00Z",
+      "dateTime": "2025-11-07T10:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.374
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T10-45-00Z",
+      "dateTime": "2025-11-07T10:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.375
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T11-00-00Z",
+      "dateTime": "2025-11-07T11:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.383
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T11-15-00Z",
+      "dateTime": "2025-11-07T11:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.385
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T11-30-00Z",
+      "dateTime": "2025-11-07T11:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.393
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T11-45-00Z",
+      "dateTime": "2025-11-07T11:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.395
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T12-00-00Z",
+      "dateTime": "2025-11-07T12:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.392
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T12-15-00Z",
+      "dateTime": "2025-11-07T12:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.395
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T12-30-00Z",
+      "dateTime": "2025-11-07T12:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.395
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T12-45-00Z",
+      "dateTime": "2025-11-07T12:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.397
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T13-00-00Z",
+      "dateTime": "2025-11-07T13:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.404
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T13-15-00Z",
+      "dateTime": "2025-11-07T13:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.402
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T13-30-00Z",
+      "dateTime": "2025-11-07T13:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.404
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T13-45-00Z",
+      "dateTime": "2025-11-07T13:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.407
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T14-00-00Z",
+      "dateTime": "2025-11-07T14:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.412
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T14-15-00Z",
+      "dateTime": "2025-11-07T14:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.414
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T14-30-00Z",
+      "dateTime": "2025-11-07T14:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.416
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T14-45-00Z",
+      "dateTime": "2025-11-07T14:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.409
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T15-00-00Z",
+      "dateTime": "2025-11-07T15:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.411
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T15-15-00Z",
+      "dateTime": "2025-11-07T15:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.42
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T15-30-00Z",
+      "dateTime": "2025-11-07T15:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.412
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T15-45-00Z",
+      "dateTime": "2025-11-07T15:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.415
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T16-00-00Z",
+      "dateTime": "2025-11-07T16:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.426
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T16-15-00Z",
+      "dateTime": "2025-11-07T16:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.423
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T16-30-00Z",
+      "dateTime": "2025-11-07T16:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.412
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T16-45-00Z",
+      "dateTime": "2025-11-07T16:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.413
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T17-00-00Z",
+      "dateTime": "2025-11-07T17:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.418
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T17-15-00Z",
+      "dateTime": "2025-11-07T17:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.418
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T17-30-00Z",
+      "dateTime": "2025-11-07T17:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.427
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T17-45-00Z",
+      "dateTime": "2025-11-07T17:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.426
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T18-00-00Z",
+      "dateTime": "2025-11-07T18:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.426
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T18-15-00Z",
+      "dateTime": "2025-11-07T18:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.42
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T18-30-00Z",
+      "dateTime": "2025-11-07T18:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.422
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T18-45-00Z",
+      "dateTime": "2025-11-07T18:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.424
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T19-00-00Z",
+      "dateTime": "2025-11-07T19:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.426
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T19-15-00Z",
+      "dateTime": "2025-11-07T19:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.432
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T19-30-00Z",
+      "dateTime": "2025-11-07T19:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.434
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T19-45-00Z",
+      "dateTime": "2025-11-07T19:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.432
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T20-00-00Z",
+      "dateTime": "2025-11-07T20:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.43
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T20-15-00Z",
+      "dateTime": "2025-11-07T20:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.431
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T20-45-00Z",
+      "dateTime": "2025-11-07T20:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.431
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T20-30-00Z",
+      "dateTime": "2025-11-07T20:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.436
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T21-00-00Z",
+      "dateTime": "2025-11-07T21:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.432
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T21-15-00Z",
+      "dateTime": "2025-11-07T21:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.43
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T21-30-00Z",
+      "dateTime": "2025-11-07T21:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.439
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T22-30-00Z",
+      "dateTime": "2025-11-07T22:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.436
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T22-15-00Z",
+      "dateTime": "2025-11-07T22:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.435
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T21-45-00Z",
+      "dateTime": "2025-11-07T21:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.441
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T22-00-00Z",
+      "dateTime": "2025-11-07T22:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.438
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T22-45-00Z",
+      "dateTime": "2025-11-07T22:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.434
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T23-00-00Z",
+      "dateTime": "2025-11-07T23:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.441
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T23-15-00Z",
+      "dateTime": "2025-11-07T23:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.433
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T23-30-00Z",
+      "dateTime": "2025-11-07T23:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.44
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-07T23-45-00Z",
+      "dateTime": "2025-11-07T23:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.441
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T00-00-00Z",
+      "dateTime": "2025-11-08T00:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.44
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T00-30-00Z",
+      "dateTime": "2025-11-08T00:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.444
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T00-15-00Z",
+      "dateTime": "2025-11-08T00:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.437
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T00-45-00Z",
+      "dateTime": "2025-11-08T00:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.443
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T01-00-00Z",
+      "dateTime": "2025-11-08T01:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.444
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T01-15-00Z",
+      "dateTime": "2025-11-08T01:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.429
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T01-30-00Z",
+      "dateTime": "2025-11-08T01:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.436
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T01-45-00Z",
+      "dateTime": "2025-11-08T01:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.436
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T02-00-00Z",
+      "dateTime": "2025-11-08T02:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.445
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T02-15-00Z",
+      "dateTime": "2025-11-08T02:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.443
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T02-30-00Z",
+      "dateTime": "2025-11-08T02:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.433
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T03-00-00Z",
+      "dateTime": "2025-11-08T03:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.438
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T02-45-00Z",
+      "dateTime": "2025-11-08T02:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.447
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T03-15-00Z",
+      "dateTime": "2025-11-08T03:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.437
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T03-30-00Z",
+      "dateTime": "2025-11-08T03:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.443
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T03-45-00Z",
+      "dateTime": "2025-11-08T03:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.442
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T04-00-00Z",
+      "dateTime": "2025-11-08T04:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.428
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T04-15-00Z",
+      "dateTime": "2025-11-08T04:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.436
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T04-30-00Z",
+      "dateTime": "2025-11-08T04:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.431
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/3045TH-level-downstage-i-15_min-mAOD/2025-11-08T05-00-00Z",
+      "dateTime": "2025-11-08T05:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/3045TH-level-downstage-i-15_min-mAOD",
+      "value": 43.439
     }
   ]
 }
