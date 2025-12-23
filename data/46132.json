@@ -7,590 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/46132/readings.csv?startdate=2025-08-01&enddate=2025-12-22",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/46132/readings.rdf?startdate=2025-08-01&enddate=2025-12-22",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/46132/readings.ttl?startdate=2025-08-01&enddate=2025-12-22",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/46132/readings.html?startdate=2025-08-01&enddate=2025-12-22"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/46132/readings.csv?startdate=2025-08-01&enddate=2025-12-23",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/46132/readings.rdf?startdate=2025-08-01&enddate=2025-12-23",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/46132/readings.ttl?startdate=2025-08-01&enddate=2025-12-23",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/46132/readings.html?startdate=2025-08-01&enddate=2025-12-23"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T00-00-00Z",
-      "dateTime": "2025-11-23T00:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 325.823
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T00-15-00Z",
-      "dateTime": "2025-11-23T00:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 324.3
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T00-30-00Z",
-      "dateTime": "2025-11-23T00:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 324.279
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T00-45-00Z",
-      "dateTime": "2025-11-23T00:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 320.411
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T01-00-00Z",
-      "dateTime": "2025-11-23T01:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 359.0
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T01-15-00Z",
-      "dateTime": "2025-11-23T01:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 0.0
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T01-30-00Z",
-      "dateTime": "2025-11-23T01:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 0.0
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T01-45-00Z",
-      "dateTime": "2025-11-23T01:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 359.0
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T02-00-00Z",
-      "dateTime": "2025-11-23T02:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 209.696
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T02-15-00Z",
-      "dateTime": "2025-11-23T02:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 200.04
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T02-30-00Z",
-      "dateTime": "2025-11-23T02:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 137.459
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T02-45-00Z",
-      "dateTime": "2025-11-23T02:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 214.855
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T03-00-00Z",
-      "dateTime": "2025-11-23T03:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 120.067
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T03-15-00Z",
-      "dateTime": "2025-11-23T03:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 106.948
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T03-30-00Z",
-      "dateTime": "2025-11-23T03:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 74.532
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T03-45-00Z",
-      "dateTime": "2025-11-23T03:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 22.963
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T04-00-00Z",
-      "dateTime": "2025-11-23T04:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 359.0
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T04-15-00Z",
-      "dateTime": "2025-11-23T04:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 310.51
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T04-30-00Z",
-      "dateTime": "2025-11-23T04:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 323.788
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T04-45-00Z",
-      "dateTime": "2025-11-23T04:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 324.336
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T05-00-00Z",
-      "dateTime": "2025-11-23T05:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 302.001
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T05-15-00Z",
-      "dateTime": "2025-11-23T05:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 299.519
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T05-30-00Z",
-      "dateTime": "2025-11-23T05:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 320.93
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T05-45-00Z",
-      "dateTime": "2025-11-23T05:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 285.093
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T06-00-00Z",
-      "dateTime": "2025-11-23T06:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 297.917
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T06-15-00Z",
-      "dateTime": "2025-11-23T06:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 277.025
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T06-30-00Z",
-      "dateTime": "2025-11-23T06:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 286.414
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T06-45-00Z",
-      "dateTime": "2025-11-23T06:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 275.466
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T07-00-00Z",
-      "dateTime": "2025-11-23T07:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 321.19
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T07-15-00Z",
-      "dateTime": "2025-11-23T07:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 348.584
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T07-30-00Z",
-      "dateTime": "2025-11-23T07:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 268.553
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T07-45-00Z",
-      "dateTime": "2025-11-23T07:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 312.862
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T08-00-00Z",
-      "dateTime": "2025-11-23T08:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 318.91
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T08-15-00Z",
-      "dateTime": "2025-11-23T08:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 282.582
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T08-30-00Z",
-      "dateTime": "2025-11-23T08:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 300.486
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T08-45-00Z",
-      "dateTime": "2025-11-23T08:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 272.421
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T09-00-00Z",
-      "dateTime": "2025-11-23T09:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 339.592
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T09-30-00Z",
-      "dateTime": "2025-11-23T09:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 190.817
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T09-15-00Z",
-      "dateTime": "2025-11-23T09:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 312.812
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T09-45-00Z",
-      "dateTime": "2025-11-23T09:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 308.965
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T10-00-00Z",
-      "dateTime": "2025-11-23T10:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 331.163
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T10-15-00Z",
-      "dateTime": "2025-11-23T10:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 248.26
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T10-30-00Z",
-      "dateTime": "2025-11-23T10:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 301.72
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T10-45-00Z",
-      "dateTime": "2025-11-23T10:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 215.57
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T11-00-00Z",
-      "dateTime": "2025-11-23T11:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 326.213
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T11-15-00Z",
-      "dateTime": "2025-11-23T11:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 280.576
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T11-30-00Z",
-      "dateTime": "2025-11-23T11:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 277.198
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T11-45-00Z",
-      "dateTime": "2025-11-23T11:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 276.477
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T12-00-00Z",
-      "dateTime": "2025-11-23T12:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 265.378
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T12-15-00Z",
-      "dateTime": "2025-11-23T12:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 277.025
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T12-30-00Z",
-      "dateTime": "2025-11-23T12:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 290.318
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T12-45-00Z",
-      "dateTime": "2025-11-23T12:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 245.345
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T13-00-00Z",
-      "dateTime": "2025-11-23T13:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 315.359
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T13-15-00Z",
-      "dateTime": "2025-11-23T13:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 321.926
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T13-30-00Z",
-      "dateTime": "2025-11-23T13:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 320.844
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T13-45-00Z",
-      "dateTime": "2025-11-23T13:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 294.251
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T14-00-00Z",
-      "dateTime": "2025-11-23T14:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 337.21
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T14-15-00Z",
-      "dateTime": "2025-11-23T14:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 262.982
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T14-30-00Z",
-      "dateTime": "2025-11-23T14:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 281.629
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T14-45-00Z",
-      "dateTime": "2025-11-23T14:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 269.376
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T15-00-00Z",
-      "dateTime": "2025-11-23T15:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 258.955
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T15-15-00Z",
-      "dateTime": "2025-11-23T15:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 281.442
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T15-30-00Z",
-      "dateTime": "2025-11-23T15:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 267.788
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T15-45-00Z",
-      "dateTime": "2025-11-23T15:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 155.313
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T16-00-00Z",
-      "dateTime": "2025-11-23T16:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 299.685
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T16-15-00Z",
-      "dateTime": "2025-11-23T16:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 280.908
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T16-30-00Z",
-      "dateTime": "2025-11-23T16:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 297.506
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T16-45-00Z",
-      "dateTime": "2025-11-23T16:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 317.582
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T17-00-00Z",
-      "dateTime": "2025-11-23T17:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 323.867
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T17-15-00Z",
-      "dateTime": "2025-11-23T17:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 277.747
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T17-30-00Z",
-      "dateTime": "2025-11-23T17:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 218.428
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T17-45-00Z",
-      "dateTime": "2025-11-23T17:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 274.514
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T18-00-00Z",
-      "dateTime": "2025-11-23T18:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 277.357
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T18-15-00Z",
-      "dateTime": "2025-11-23T18:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 286.76
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T18-30-00Z",
-      "dateTime": "2025-11-23T18:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 266.735
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T18-45-00Z",
-      "dateTime": "2025-11-23T18:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 279.464
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T19-00-00Z",
-      "dateTime": "2025-11-23T19:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 306.093
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T19-15-00Z",
-      "dateTime": "2025-11-23T19:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 336.445
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T19-30-00Z",
-      "dateTime": "2025-11-23T19:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 321.19
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T20-00-00Z",
-      "dateTime": "2025-11-23T20:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 273.417
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T19-45-00Z",
-      "dateTime": "2025-11-23T19:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 314.334
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T20-15-00Z",
-      "dateTime": "2025-11-23T20:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 302.023
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T20-30-00Z",
-      "dateTime": "2025-11-23T20:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 274.362
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T20-45-00Z",
-      "dateTime": "2025-11-23T20:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 327.338
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T21-00-00Z",
-      "dateTime": "2025-11-23T21:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 331.177
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T21-15-00Z",
-      "dateTime": "2025-11-23T21:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 330.268
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T21-30-00Z",
-      "dateTime": "2025-11-23T21:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 278.49
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T22-30-00Z",
-      "dateTime": "2025-11-23T22:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 205.885
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T21-45-00Z",
-      "dateTime": "2025-11-23T21:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 271.873
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T22-15-00Z",
-      "dateTime": "2025-11-23T22:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 312.285
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T22-00-00Z",
-      "dateTime": "2025-11-23T22:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 246.752
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T22-45-00Z",
-      "dateTime": "2025-11-23T22:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 213.131
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T23-00-00Z",
-      "dateTime": "2025-11-23T23:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 331.149
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T23-15-00Z",
-      "dateTime": "2025-11-23T23:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 335.219
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T23-30-00Z",
-      "dateTime": "2025-11-23T23:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 270.978
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-23T23-45-00Z",
-      "dateTime": "2025-11-23T23:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
-      "value": 307.132
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-24T00-00-00Z",
       "dateTime": "2025-11-24T00:00:00Z",
@@ -3014,6 +2438,582 @@
       "dateTime": "2025-11-28T04:45:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
       "value": 359.0
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T05-00-00Z",
+      "dateTime": "2025-11-28T05:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 359.0
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T05-15-00Z",
+      "dateTime": "2025-11-28T05:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 218.918
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T05-30-00Z",
+      "dateTime": "2025-11-28T05:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 234.253
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T05-45-00Z",
+      "dateTime": "2025-11-28T05:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 234.39
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T06-00-00Z",
+      "dateTime": "2025-11-28T06:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 222.195
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T06-15-00Z",
+      "dateTime": "2025-11-28T06:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 220.484
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T06-30-00Z",
+      "dateTime": "2025-11-28T06:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 214.112
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T06-45-00Z",
+      "dateTime": "2025-11-28T06:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 359.0
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T07-00-00Z",
+      "dateTime": "2025-11-28T07:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 321.926
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T07-15-00Z",
+      "dateTime": "2025-11-28T07:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 288.889
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T07-45-00Z",
+      "dateTime": "2025-11-28T07:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 325.26
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T07-30-00Z",
+      "dateTime": "2025-11-28T07:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 312.198
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T08-00-00Z",
+      "dateTime": "2025-11-28T08:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 259.432
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T08-15-00Z",
+      "dateTime": "2025-11-28T08:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 233.842
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T08-30-00Z",
+      "dateTime": "2025-11-28T08:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 266.027
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T08-45-00Z",
+      "dateTime": "2025-11-28T08:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 241.39
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T09-00-00Z",
+      "dateTime": "2025-11-28T09:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 309.326
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T09-15-00Z",
+      "dateTime": "2025-11-28T09:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 313.569
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T09-30-00Z",
+      "dateTime": "2025-11-28T09:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 324.221
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T09-45-00Z",
+      "dateTime": "2025-11-28T09:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 320.425
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T10-00-00Z",
+      "dateTime": "2025-11-28T10:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 158.661
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T10-15-00Z",
+      "dateTime": "2025-11-28T10:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 43.154
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T10-30-00Z",
+      "dateTime": "2025-11-28T10:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 330.34
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T10-45-00Z",
+      "dateTime": "2025-11-28T10:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 214.213
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T11-00-00Z",
+      "dateTime": "2025-11-28T11:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 286.306
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T11-15-00Z",
+      "dateTime": "2025-11-28T11:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 253.817
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T11-30-00Z",
+      "dateTime": "2025-11-28T11:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 298.473
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T11-45-00Z",
+      "dateTime": "2025-11-28T11:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 229.296
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T13-00-00Z",
+      "dateTime": "2025-11-28T13:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 275.798
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T12-30-00Z",
+      "dateTime": "2025-11-28T12:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 335.666
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T12-45-00Z",
+      "dateTime": "2025-11-28T12:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 305.48
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T12-00-00Z",
+      "dateTime": "2025-11-28T12:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 281.384
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T12-15-00Z",
+      "dateTime": "2025-11-28T12:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 239.067
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T13-15-00Z",
+      "dateTime": "2025-11-28T13:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 258.277
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T13-30-00Z",
+      "dateTime": "2025-11-28T13:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 313.526
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T13-45-00Z",
+      "dateTime": "2025-11-28T13:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 267.774
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T14-00-00Z",
+      "dateTime": "2025-11-28T14:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 336.373
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T14-15-00Z",
+      "dateTime": "2025-11-28T14:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 302.485
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T14-30-00Z",
+      "dateTime": "2025-11-28T14:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 348.208
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T14-45-00Z",
+      "dateTime": "2025-11-28T14:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 285.035
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T15-00-00Z",
+      "dateTime": "2025-11-28T15:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 267.297
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T15-15-00Z",
+      "dateTime": "2025-11-28T15:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 296.272
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T15-45-00Z",
+      "dateTime": "2025-11-28T15:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 311.924
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T15-30-00Z",
+      "dateTime": "2025-11-28T15:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 282.668
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T16-00-00Z",
+      "dateTime": "2025-11-28T16:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 295.586
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T16-15-00Z",
+      "dateTime": "2025-11-28T16:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 255.246
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T16-30-00Z",
+      "dateTime": "2025-11-28T16:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 292.541
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T16-45-00Z",
+      "dateTime": "2025-11-28T16:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 297.902
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T17-00-00Z",
+      "dateTime": "2025-11-28T17:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 313.439
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T17-30-00Z",
+      "dateTime": "2025-11-28T17:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 237.71
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T17-15-00Z",
+      "dateTime": "2025-11-28T17:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 291.574
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T17-45-00Z",
+      "dateTime": "2025-11-28T17:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 278.1
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T18-00-00Z",
+      "dateTime": "2025-11-28T18:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 234.903
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T18-15-00Z",
+      "dateTime": "2025-11-28T18:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 232.918
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T18-30-00Z",
+      "dateTime": "2025-11-28T18:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 269.376
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T18-45-00Z",
+      "dateTime": "2025-11-28T18:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 137.322
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T19-00-00Z",
+      "dateTime": "2025-11-28T19:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 97.494
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T19-15-00Z",
+      "dateTime": "2025-11-28T19:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 108.997
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T19-30-00Z",
+      "dateTime": "2025-11-28T19:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 82.383
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T19-45-00Z",
+      "dateTime": "2025-11-28T19:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 108.247
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T20-00-00Z",
+      "dateTime": "2025-11-28T20:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 222.685
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T20-15-00Z",
+      "dateTime": "2025-11-28T20:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 105.339
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T20-30-00Z",
+      "dateTime": "2025-11-28T20:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 263.516
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T20-45-00Z",
+      "dateTime": "2025-11-28T20:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 247.077
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T21-00-00Z",
+      "dateTime": "2025-11-28T21:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 267.709
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T21-15-00Z",
+      "dateTime": "2025-11-28T21:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 312.617
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T21-30-00Z",
+      "dateTime": "2025-11-28T21:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 207.827
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T22-30-00Z",
+      "dateTime": "2025-11-28T22:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 274.297
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T21-45-00Z",
+      "dateTime": "2025-11-28T21:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 159.108
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T22-00-00Z",
+      "dateTime": "2025-11-28T22:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 253.658
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T22-15-00Z",
+      "dateTime": "2025-11-28T22:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 219.662
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T22-45-00Z",
+      "dateTime": "2025-11-28T22:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 218.673
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T23-00-00Z",
+      "dateTime": "2025-11-28T23:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 269.347
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T23-15-00Z",
+      "dateTime": "2025-11-28T23:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 158.762
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T23-30-00Z",
+      "dateTime": "2025-11-28T23:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 234.939
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-28T23-45-00Z",
+      "dateTime": "2025-11-28T23:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 234.232
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T00-00-00Z",
+      "dateTime": "2025-11-29T00:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 239.427
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T00-15-00Z",
+      "dateTime": "2025-11-29T00:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 338.365
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T00-45-00Z",
+      "dateTime": "2025-11-29T00:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 245.85
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T00-30-00Z",
+      "dateTime": "2025-11-29T00:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 236.296
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T01-00-00Z",
+      "dateTime": "2025-11-29T01:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 229.96
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T01-15-00Z",
+      "dateTime": "2025-11-29T01:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 239.464
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T01-30-00Z",
+      "dateTime": "2025-11-29T01:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 246.832
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T01-45-00Z",
+      "dateTime": "2025-11-29T01:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 235.798
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T02-00-00Z",
+      "dateTime": "2025-11-29T02:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 234.001
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T02-15-00Z",
+      "dateTime": "2025-11-29T02:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 183.702
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T02-45-00Z",
+      "dateTime": "2025-11-29T02:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 218.889
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T02-30-00Z",
+      "dateTime": "2025-11-29T02:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 252.966
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T03-00-00Z",
+      "dateTime": "2025-11-29T03:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 237.392
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T03-15-00Z",
+      "dateTime": "2025-11-29T03:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 261.943
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T03-30-00Z",
+      "dateTime": "2025-11-29T03:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 192.254
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T03-45-00Z",
+      "dateTime": "2025-11-29T03:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 222.743
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T04-00-00Z",
+      "dateTime": "2025-11-29T04:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 216.725
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T04-15-00Z",
+      "dateTime": "2025-11-29T04:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 135.64
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T04-30-00Z",
+      "dateTime": "2025-11-29T04:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 211.067
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/46132-wind-direction-i-15_min-deg/2025-11-29T04-45-00Z",
+      "dateTime": "2025-11-29T04:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/46132-wind-direction-i-15_min-deg",
+      "value": 217.244
     }
   ]
 }
