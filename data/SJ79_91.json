@@ -7,10 +7,10 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ79_91/readings.csv?startdate=2025-08-01&enddate=2026-01-07",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ79_91/readings.rdf?startdate=2025-08-01&enddate=2026-01-07",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ79_91/readings.ttl?startdate=2025-08-01&enddate=2026-01-07",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ79_91/readings.html?startdate=2025-08-01&enddate=2026-01-07"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ79_91/readings.csv?startdate=2025-08-01&enddate=2026-01-08",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ79_91/readings.rdf?startdate=2025-08-01&enddate=2026-01-08",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ79_91/readings.ttl?startdate=2025-08-01&enddate=2026-01-08",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ79_91/readings.html?startdate=2025-08-01&enddate=2026-01-08"
     ],
     "limit": 500
   },
@@ -3002,6 +3002,18 @@
       "dateTime": "2026-01-05T16:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SJ79_91-level-groundwater-i-1_h-m",
       "value": 8.138
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SJ79_91-level-groundwater-i-1_h-m/2026-01-07T07-00-00Z",
+      "dateTime": "2026-01-07T07:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SJ79_91-level-groundwater-i-1_h-m",
+      "value": 8.075
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SJ79_91-level-groundwater-i-1_h-m/2026-01-07T01-00-00Z",
+      "dateTime": "2026-01-07T01:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SJ79_91-level-groundwater-i-1_h-m",
+      "value": 8.087
     }
   ]
 }
