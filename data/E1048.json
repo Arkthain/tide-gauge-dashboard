@@ -7,10 +7,10 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E1048/readings.csv?startdate=2025-08-01&enddate=2026-02-09",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E1048/readings.rdf?startdate=2025-08-01&enddate=2026-02-09",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E1048/readings.ttl?startdate=2025-08-01&enddate=2026-02-09",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E1048/readings.html?startdate=2025-08-01&enddate=2026-02-09"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E1048/readings.csv?startdate=2025-08-01&enddate=2026-02-10",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E1048/readings.rdf?startdate=2025-08-01&enddate=2026-02-10",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E1048/readings.ttl?startdate=2025-08-01&enddate=2026-02-10",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E1048/readings.html?startdate=2025-08-01&enddate=2026-02-10"
     ],
     "limit": 500
   },
@@ -3008,6 +3008,12 @@
       "dateTime": "2026-02-08T08:45:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E1048-level-stage-i-15_min-mAOD",
       "value": 55.941
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E1048-level-stage-i-15_min-mAOD/2026-02-08T23-00-00Z",
+      "dateTime": "2026-02-08T23:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E1048-level-stage-i-15_min-mAOD",
+      "value": 55.951
     }
   ]
 }
