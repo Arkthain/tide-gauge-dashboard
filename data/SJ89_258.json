@@ -7,10 +7,10 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ89_258/readings.csv?startdate=2025-08-01&enddate=2026-02-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ89_258/readings.rdf?startdate=2025-08-01&enddate=2026-02-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ89_258/readings.ttl?startdate=2025-08-01&enddate=2026-02-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ89_258/readings.html?startdate=2025-08-01&enddate=2026-02-12"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ89_258/readings.csv?startdate=2025-08-01&enddate=2026-02-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ89_258/readings.rdf?startdate=2025-08-01&enddate=2026-02-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ89_258/readings.ttl?startdate=2025-08-01&enddate=2026-02-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SJ89_258/readings.html?startdate=2025-08-01&enddate=2026-02-13"
     ],
     "limit": 500
   },
@@ -3002,6 +3002,18 @@
       "dateTime": "2026-02-11T05:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SJ89_258-level-groundwater-i-1_h-m",
       "value": 1.576
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SJ89_258-level-groundwater-i-1_h-m/2026-02-12T07-00-00Z",
+      "dateTime": "2026-02-12T07:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SJ89_258-level-groundwater-i-1_h-m",
+      "value": 1.48
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SJ89_258-level-groundwater-i-1_h-m/2026-02-11T21-00-00Z",
+      "dateTime": "2026-02-11T21:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SJ89_258-level-groundwater-i-1_h-m",
+      "value": 1.555
     }
   ]
 }

@@ -7,10 +7,10 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/2891W/readings.csv?startdate=2025-08-01&enddate=2026-02-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/2891W/readings.rdf?startdate=2025-08-01&enddate=2026-02-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/2891W/readings.ttl?startdate=2025-08-01&enddate=2026-02-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/2891W/readings.html?startdate=2025-08-01&enddate=2026-02-12"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/2891W/readings.csv?startdate=2025-08-01&enddate=2026-02-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/2891W/readings.rdf?startdate=2025-08-01&enddate=2026-02-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/2891W/readings.ttl?startdate=2025-08-01&enddate=2026-02-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/2891W/readings.html?startdate=2025-08-01&enddate=2026-02-13"
     ],
     "limit": 500
   },
@@ -3000,6 +3000,18 @@
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2891W-level-groundwater-i-1_h-mBDAT/2026-02-12T03-00-00Z",
       "dateTime": "2026-02-12T03:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2891W-level-groundwater-i-1_h-mBDAT",
+      "value": 3.36
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2891W-level-groundwater-i-1_h-mBDAT/2026-02-12T04-00-00Z",
+      "dateTime": "2026-02-12T04:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2891W-level-groundwater-i-1_h-mBDAT",
+      "value": 3.36
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2891W-level-groundwater-i-1_h-mBDAT/2026-02-12T05-00-00Z",
+      "dateTime": "2026-02-12T05:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2891W-level-groundwater-i-1_h-mBDAT",
       "value": 3.36
     }
