@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/L39020/readings.csv?startdate=2025-08-01&enddate=2026-02-19",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/L39020/readings.rdf?startdate=2025-08-01&enddate=2026-02-19",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/L39020/readings.ttl?startdate=2025-08-01&enddate=2026-02-19",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/L39020/readings.html?startdate=2025-08-01&enddate=2026-02-19"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/L39020/readings.csv?startdate=2025-08-01&enddate=2026-02-20",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/L39020/readings.rdf?startdate=2025-08-01&enddate=2026-02-20",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/L39020/readings.ttl?startdate=2025-08-01&enddate=2026-02-20",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/L39020/readings.html?startdate=2025-08-01&enddate=2026-02-20"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/L39020-level-stage-i-15_min-m/2026-01-21T00-00-00Z",
-      "dateTime": "2026-01-21T00:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/L39020-level-stage-i-15_min-m",
-      "value": 0.058
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/L39020-level-stage-i-15_min-m/2026-01-23T10-15-00Z",
       "dateTime": "2026-01-23T10:15:00Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2026-01-28T14:45:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/L39020-level-stage-i-15_min-m",
       "value": 0.054
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/L39020-level-stage-i-15_min-m/2026-01-28T15-00-00Z",
+      "dateTime": "2026-01-28T15:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/L39020-level-stage-i-15_min-m",
+      "value": 0.055
     }
   ]
 }
