@@ -7,590 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/2616_PCH/readings.csv?startdate=2025-08-01&enddate=2026-02-23",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/2616_PCH/readings.rdf?startdate=2025-08-01&enddate=2026-02-23",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/2616_PCH/readings.ttl?startdate=2025-08-01&enddate=2026-02-23",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/2616_PCH/readings.html?startdate=2025-08-01&enddate=2026-02-23"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/2616_PCH/readings.csv?startdate=2025-08-01&enddate=2026-02-24",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/2616_PCH/readings.rdf?startdate=2025-08-01&enddate=2026-02-24",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/2616_PCH/readings.ttl?startdate=2025-08-01&enddate=2026-02-24",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/2616_PCH/readings.html?startdate=2025-08-01&enddate=2026-02-24"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T00-00-00Z",
-      "dateTime": "2026-01-25T00:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.76
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T00-15-00Z",
-      "dateTime": "2026-01-25T00:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.805
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T00-30-00Z",
-      "dateTime": "2026-01-25T00:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.849
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T00-45-00Z",
-      "dateTime": "2026-01-25T00:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.89
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T01-00-00Z",
-      "dateTime": "2026-01-25T01:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.929
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T01-15-00Z",
-      "dateTime": "2026-01-25T01:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.967
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T01-30-00Z",
-      "dateTime": "2026-01-25T01:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.003
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T01-45-00Z",
-      "dateTime": "2026-01-25T01:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.036
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T02-00-00Z",
-      "dateTime": "2026-01-25T02:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.07
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T02-15-00Z",
-      "dateTime": "2026-01-25T02:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.103
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T02-30-00Z",
-      "dateTime": "2026-01-25T02:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.134
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T02-45-00Z",
-      "dateTime": "2026-01-25T02:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.164
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T03-00-00Z",
-      "dateTime": "2026-01-25T03:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.192
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T03-15-00Z",
-      "dateTime": "2026-01-25T03:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.219
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T03-30-00Z",
-      "dateTime": "2026-01-25T03:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.245
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T03-45-00Z",
-      "dateTime": "2026-01-25T03:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.271
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T04-00-00Z",
-      "dateTime": "2026-01-25T04:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.295
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T04-15-00Z",
-      "dateTime": "2026-01-25T04:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.099
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T04-30-00Z",
-      "dateTime": "2026-01-25T04:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.865
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T04-45-00Z",
-      "dateTime": "2026-01-25T04:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.622
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T05-00-00Z",
-      "dateTime": "2026-01-25T05:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.724
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T05-15-00Z",
-      "dateTime": "2026-01-25T05:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.77
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T05-30-00Z",
-      "dateTime": "2026-01-25T05:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.816
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T05-45-00Z",
-      "dateTime": "2026-01-25T05:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.857
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T06-00-00Z",
-      "dateTime": "2026-01-25T06:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.898
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T06-15-00Z",
-      "dateTime": "2026-01-25T06:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.935
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T06-30-00Z",
-      "dateTime": "2026-01-25T06:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.971
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T06-45-00Z",
-      "dateTime": "2026-01-25T06:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.008
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T07-00-00Z",
-      "dateTime": "2026-01-25T07:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.042
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T07-15-00Z",
-      "dateTime": "2026-01-25T07:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.074
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T07-30-00Z",
-      "dateTime": "2026-01-25T07:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.107
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T07-45-00Z",
-      "dateTime": "2026-01-25T07:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.137
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T08-00-00Z",
-      "dateTime": "2026-01-25T08:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.167
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T08-15-00Z",
-      "dateTime": "2026-01-25T08:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.195
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T08-30-00Z",
-      "dateTime": "2026-01-25T08:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.221
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T08-45-00Z",
-      "dateTime": "2026-01-25T08:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.248
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T09-00-00Z",
-      "dateTime": "2026-01-25T09:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.273
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T09-15-00Z",
-      "dateTime": "2026-01-25T09:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.297
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T09-30-00Z",
-      "dateTime": "2026-01-25T09:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.091
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T09-45-00Z",
-      "dateTime": "2026-01-25T09:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.847
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T10-00-00Z",
-      "dateTime": "2026-01-25T10:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.623
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T10-15-00Z",
-      "dateTime": "2026-01-25T10:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.723
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T10-30-00Z",
-      "dateTime": "2026-01-25T10:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.769
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T10-45-00Z",
-      "dateTime": "2026-01-25T10:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.813
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T11-00-00Z",
-      "dateTime": "2026-01-25T11:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.856
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T11-15-00Z",
-      "dateTime": "2026-01-25T11:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.895
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T11-30-00Z",
-      "dateTime": "2026-01-25T11:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.933
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T11-45-00Z",
-      "dateTime": "2026-01-25T11:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.969
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T12-00-00Z",
-      "dateTime": "2026-01-25T12:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.004
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T12-15-00Z",
-      "dateTime": "2026-01-25T12:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.037
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T12-30-00Z",
-      "dateTime": "2026-01-25T12:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.071
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T12-45-00Z",
-      "dateTime": "2026-01-25T12:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.102
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T13-00-00Z",
-      "dateTime": "2026-01-25T13:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.132
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T13-15-00Z",
-      "dateTime": "2026-01-25T13:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.161
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T13-30-00Z",
-      "dateTime": "2026-01-25T13:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.19
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T13-45-00Z",
-      "dateTime": "2026-01-25T13:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.218
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T14-00-00Z",
-      "dateTime": "2026-01-25T14:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.243
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T14-15-00Z",
-      "dateTime": "2026-01-25T14:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.266
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T14-30-00Z",
-      "dateTime": "2026-01-25T14:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.291
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T14-45-00Z",
-      "dateTime": "2026-01-25T14:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.128
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T15-00-00Z",
-      "dateTime": "2026-01-25T15:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.907
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T15-15-00Z",
-      "dateTime": "2026-01-25T15:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.663
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T15-30-00Z",
-      "dateTime": "2026-01-25T15:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.721
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T15-45-00Z",
-      "dateTime": "2026-01-25T15:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.769
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T16-00-00Z",
-      "dateTime": "2026-01-25T16:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.812
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T16-15-00Z",
-      "dateTime": "2026-01-25T16:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.852
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T16-30-00Z",
-      "dateTime": "2026-01-25T16:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.892
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T16-45-00Z",
-      "dateTime": "2026-01-25T16:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.93
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T17-00-00Z",
-      "dateTime": "2026-01-25T17:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.965
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T17-15-00Z",
-      "dateTime": "2026-01-25T17:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.0
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T17-30-00Z",
-      "dateTime": "2026-01-25T17:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.034
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T17-45-00Z",
-      "dateTime": "2026-01-25T17:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.065
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T18-00-00Z",
-      "dateTime": "2026-01-25T18:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.097
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T18-15-00Z",
-      "dateTime": "2026-01-25T18:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.127
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T18-30-00Z",
-      "dateTime": "2026-01-25T18:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.154
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T18-45-00Z",
-      "dateTime": "2026-01-25T18:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.184
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T19-00-00Z",
-      "dateTime": "2026-01-25T19:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.212
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T19-15-00Z",
-      "dateTime": "2026-01-25T19:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.238
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T19-30-00Z",
-      "dateTime": "2026-01-25T19:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.262
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T19-45-00Z",
-      "dateTime": "2026-01-25T19:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.287
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T20-00-00Z",
-      "dateTime": "2026-01-25T20:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.17
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T20-15-00Z",
-      "dateTime": "2026-01-25T20:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.955
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T20-30-00Z",
-      "dateTime": "2026-01-25T20:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.719
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T20-45-00Z",
-      "dateTime": "2026-01-25T20:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.702
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T21-00-00Z",
-      "dateTime": "2026-01-25T21:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.746
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T21-15-00Z",
-      "dateTime": "2026-01-25T21:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.792
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T21-30-00Z",
-      "dateTime": "2026-01-25T21:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.833
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T22-30-00Z",
-      "dateTime": "2026-01-25T22:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.985
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T21-45-00Z",
-      "dateTime": "2026-01-25T21:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.874
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T22-00-00Z",
-      "dateTime": "2026-01-25T22:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.912
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T22-15-00Z",
-      "dateTime": "2026-01-25T22:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 11.948
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T22-45-00Z",
-      "dateTime": "2026-01-25T22:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.018
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T23-00-00Z",
-      "dateTime": "2026-01-25T23:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.051
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T23-15-00Z",
-      "dateTime": "2026-01-25T23:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.082
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T23-30-00Z",
-      "dateTime": "2026-01-25T23:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.113
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-25T23-45-00Z",
-      "dateTime": "2026-01-25T23:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
-      "value": 12.143
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-26T00-00-00Z",
       "dateTime": "2026-01-26T00:00:00Z",
@@ -3014,6 +2438,582 @@
       "dateTime": "2026-01-30T04:45:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
       "value": 11.841
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T05-00-00Z",
+      "dateTime": "2026-01-30T05:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.607
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T05-15-00Z",
+      "dateTime": "2026-01-30T05:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.723
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T05-30-00Z",
+      "dateTime": "2026-01-30T05:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.773
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T05-45-00Z",
+      "dateTime": "2026-01-30T05:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.821
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T06-00-00Z",
+      "dateTime": "2026-01-30T06:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.87
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T06-15-00Z",
+      "dateTime": "2026-01-30T06:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.917
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T06-30-00Z",
+      "dateTime": "2026-01-30T06:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.963
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T06-45-00Z",
+      "dateTime": "2026-01-30T06:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.008
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T07-00-00Z",
+      "dateTime": "2026-01-30T07:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.052
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T07-15-00Z",
+      "dateTime": "2026-01-30T07:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.097
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T07-30-00Z",
+      "dateTime": "2026-01-30T07:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.14
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T07-45-00Z",
+      "dateTime": "2026-01-30T07:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.183
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T08-00-00Z",
+      "dateTime": "2026-01-30T08:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.224
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T08-15-00Z",
+      "dateTime": "2026-01-30T08:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.264
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T08-30-00Z",
+      "dateTime": "2026-01-30T08:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.301
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T08-45-00Z",
+      "dateTime": "2026-01-30T08:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.071
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T09-00-00Z",
+      "dateTime": "2026-01-30T09:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.843
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T09-15-00Z",
+      "dateTime": "2026-01-30T09:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.641
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T09-30-00Z",
+      "dateTime": "2026-01-30T09:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.718
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T09-45-00Z",
+      "dateTime": "2026-01-30T09:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.785
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T10-00-00Z",
+      "dateTime": "2026-01-30T10:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.845
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T10-15-00Z",
+      "dateTime": "2026-01-30T10:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.902
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T10-30-00Z",
+      "dateTime": "2026-01-30T10:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.957
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T10-45-00Z",
+      "dateTime": "2026-01-30T10:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.008
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T11-00-00Z",
+      "dateTime": "2026-01-30T11:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.057
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T11-15-00Z",
+      "dateTime": "2026-01-30T11:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.105
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T11-30-00Z",
+      "dateTime": "2026-01-30T11:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.15
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T11-45-00Z",
+      "dateTime": "2026-01-30T11:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.194
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T12-00-00Z",
+      "dateTime": "2026-01-30T12:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.234
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T12-15-00Z",
+      "dateTime": "2026-01-30T12:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.274
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T12-30-00Z",
+      "dateTime": "2026-01-30T12:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.191
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T12-45-00Z",
+      "dateTime": "2026-01-30T12:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.008
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T13-00-00Z",
+      "dateTime": "2026-01-30T13:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.777
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T13-15-00Z",
+      "dateTime": "2026-01-30T13:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.548
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T13-30-00Z",
+      "dateTime": "2026-01-30T13:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.744
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T13-45-00Z",
+      "dateTime": "2026-01-30T13:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.804
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T14-00-00Z",
+      "dateTime": "2026-01-30T14:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.859
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T14-15-00Z",
+      "dateTime": "2026-01-30T14:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.911
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T14-30-00Z",
+      "dateTime": "2026-01-30T14:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.961
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T14-45-00Z",
+      "dateTime": "2026-01-30T14:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.008
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T15-00-00Z",
+      "dateTime": "2026-01-30T15:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.053
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T15-15-00Z",
+      "dateTime": "2026-01-30T15:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.096
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T15-30-00Z",
+      "dateTime": "2026-01-30T15:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.138
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T15-45-00Z",
+      "dateTime": "2026-01-30T15:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.177
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T16-00-00Z",
+      "dateTime": "2026-01-30T16:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.215
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T16-15-00Z",
+      "dateTime": "2026-01-30T16:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.252
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T16-30-00Z",
+      "dateTime": "2026-01-30T16:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.286
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T16-45-00Z",
+      "dateTime": "2026-01-30T16:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.152
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T17-00-00Z",
+      "dateTime": "2026-01-30T17:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.952
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T17-15-00Z",
+      "dateTime": "2026-01-30T17:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.722
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T17-30-00Z",
+      "dateTime": "2026-01-30T17:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.701
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T17-45-00Z",
+      "dateTime": "2026-01-30T17:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.754
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T18-00-00Z",
+      "dateTime": "2026-01-30T18:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.808
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T18-15-00Z",
+      "dateTime": "2026-01-30T18:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.859
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T18-30-00Z",
+      "dateTime": "2026-01-30T18:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.907
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T18-45-00Z",
+      "dateTime": "2026-01-30T18:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.954
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T19-00-00Z",
+      "dateTime": "2026-01-30T19:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.999
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T19-15-00Z",
+      "dateTime": "2026-01-30T19:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.042
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T19-30-00Z",
+      "dateTime": "2026-01-30T19:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.082
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T19-45-00Z",
+      "dateTime": "2026-01-30T19:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.122
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T20-00-00Z",
+      "dateTime": "2026-01-30T20:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.159
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T20-15-00Z",
+      "dateTime": "2026-01-30T20:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.197
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T20-30-00Z",
+      "dateTime": "2026-01-30T20:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.232
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T20-45-00Z",
+      "dateTime": "2026-01-30T20:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.266
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T21-00-00Z",
+      "dateTime": "2026-01-30T21:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.299
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T21-15-00Z",
+      "dateTime": "2026-01-30T21:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.066
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T21-30-00Z",
+      "dateTime": "2026-01-30T21:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.826
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T22-30-00Z",
+      "dateTime": "2026-01-30T22:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.85
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T22-00-00Z",
+      "dateTime": "2026-01-30T22:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.741
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T21-45-00Z",
+      "dateTime": "2026-01-30T21:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.593
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T22-15-00Z",
+      "dateTime": "2026-01-30T22:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.797
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T22-45-00Z",
+      "dateTime": "2026-01-30T22:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.901
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T23-00-00Z",
+      "dateTime": "2026-01-30T23:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.948
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T23-15-00Z",
+      "dateTime": "2026-01-30T23:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.994
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T23-30-00Z",
+      "dateTime": "2026-01-30T23:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.038
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-30T23-45-00Z",
+      "dateTime": "2026-01-30T23:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.08
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T00-00-00Z",
+      "dateTime": "2026-01-31T00:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.121
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T00-15-00Z",
+      "dateTime": "2026-01-31T00:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.159
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T00-30-00Z",
+      "dateTime": "2026-01-31T00:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.197
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T00-45-00Z",
+      "dateTime": "2026-01-31T00:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.233
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T01-00-00Z",
+      "dateTime": "2026-01-31T01:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.266
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T01-15-00Z",
+      "dateTime": "2026-01-31T01:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.3
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T01-30-00Z",
+      "dateTime": "2026-01-31T01:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.07
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T01-45-00Z",
+      "dateTime": "2026-01-31T01:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.835
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T02-00-00Z",
+      "dateTime": "2026-01-31T02:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.612
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T02-15-00Z",
+      "dateTime": "2026-01-31T02:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.726
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T02-30-00Z",
+      "dateTime": "2026-01-31T02:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.781
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T02-45-00Z",
+      "dateTime": "2026-01-31T02:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.835
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T03-00-00Z",
+      "dateTime": "2026-01-31T03:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.882
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T03-15-00Z",
+      "dateTime": "2026-01-31T03:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.929
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T03-30-00Z",
+      "dateTime": "2026-01-31T03:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 11.973
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T03-45-00Z",
+      "dateTime": "2026-01-31T03:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.015
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T04-00-00Z",
+      "dateTime": "2026-01-31T04:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.055
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T04-15-00Z",
+      "dateTime": "2026-01-31T04:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.094
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T04-30-00Z",
+      "dateTime": "2026-01-31T04:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.131
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/2616_PCH-level-stage-i-15_min-mAOD/2026-01-31T04-45-00Z",
+      "dateTime": "2026-01-31T04:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/2616_PCH-level-stage-i-15_min-mAOD",
+      "value": 12.167
     }
   ]
 }
