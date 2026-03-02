@@ -7,1171 +7,19 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SX65F051/readings.csv?startdate=2025-08-01&enddate=2026-02-28",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SX65F051/readings.rdf?startdate=2025-08-01&enddate=2026-02-28",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SX65F051/readings.ttl?startdate=2025-08-01&enddate=2026-02-28",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SX65F051/readings.html?startdate=2025-08-01&enddate=2026-02-28"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SX65F051/readings.csv?startdate=2025-08-01&enddate=2026-03-02",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SX65F051/readings.rdf?startdate=2025-08-01&enddate=2026-03-02",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SX65F051/readings.ttl?startdate=2025-08-01&enddate=2026-03-02",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SX65F051/readings.html?startdate=2025-08-01&enddate=2026-03-02"
     ],
     "limit": 500
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T00-00-00Z",
-      "dateTime": "2026-01-30T00:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.889
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T01-00-00Z",
-      "dateTime": "2026-01-30T01:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 16.274
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T00-30-00Z",
-      "dateTime": "2026-01-30T00:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 15.076
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T00-15-00Z",
-      "dateTime": "2026-01-30T00:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 14.51
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T00-45-00Z",
-      "dateTime": "2026-01-30T00:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 15.687
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T02-00-00Z",
-      "dateTime": "2026-01-30T02:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 18.132
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T01-15-00Z",
-      "dateTime": "2026-01-30T01:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 16.484
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T01-30-00Z",
-      "dateTime": "2026-01-30T01:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 17.084
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T01-45-00Z",
-      "dateTime": "2026-01-30T01:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 17.514
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T03-00-00Z",
-      "dateTime": "2026-01-30T03:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 18.316
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T02-15-00Z",
-      "dateTime": "2026-01-30T02:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 18.426
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T02-30-00Z",
-      "dateTime": "2026-01-30T02:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 18.76
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T02-45-00Z",
-      "dateTime": "2026-01-30T02:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 18.685
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T04-00-00Z",
-      "dateTime": "2026-01-30T04:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 16.484
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T03-45-00Z",
-      "dateTime": "2026-01-30T03:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 16.942
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T03-15-00Z",
-      "dateTime": "2026-01-30T03:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 17.876
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T03-30-00Z",
-      "dateTime": "2026-01-30T03:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 17.442
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T05-00-00Z",
-      "dateTime": "2026-01-30T05:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 14.675
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T04-45-00Z",
-      "dateTime": "2026-01-30T04:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 15.144
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T04-15-00Z",
-      "dateTime": "2026-01-30T04:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 15.997
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T04-30-00Z",
-      "dateTime": "2026-01-30T04:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 15.516
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T06-00-00Z",
-      "dateTime": "2026-01-30T06:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 12.715
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T05-30-00Z",
-      "dateTime": "2026-01-30T05:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.599
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T05-45-00Z",
-      "dateTime": "2026-01-30T05:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.122
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T05-15-00Z",
-      "dateTime": "2026-01-30T05:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 14.018
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T07-00-00Z",
-      "dateTime": "2026-01-30T07:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.324
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T06-45-00Z",
-      "dateTime": "2026-01-30T06:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.65
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T06-30-00Z",
-      "dateTime": "2026-01-30T06:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.95
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T06-15-00Z",
-      "dateTime": "2026-01-30T06:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 12.162
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T08-00-00Z",
-      "dateTime": "2026-01-30T08:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.147
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T07-15-00Z",
-      "dateTime": "2026-01-30T07:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.886
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T07-45-00Z",
-      "dateTime": "2026-01-30T07:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.372
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T07-30-00Z",
-      "dateTime": "2026-01-30T07:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.685
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T09-00-00Z",
-      "dateTime": "2026-01-30T09:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.378
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T08-15-00Z",
-      "dateTime": "2026-01-30T08:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.008
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T08-45-00Z",
-      "dateTime": "2026-01-30T08:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.486
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T08-30-00Z",
-      "dateTime": "2026-01-30T08:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.704
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T10-00-00Z",
-      "dateTime": "2026-01-30T10:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.611
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T09-15-00Z",
-      "dateTime": "2026-01-30T09:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.083
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T09-30-00Z",
-      "dateTime": "2026-01-30T09:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.924
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T09-45-00Z",
-      "dateTime": "2026-01-30T09:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.689
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T11-00-00Z",
-      "dateTime": "2026-01-30T11:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.024
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T10-15-00Z",
-      "dateTime": "2026-01-30T10:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.43
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T10-30-00Z",
-      "dateTime": "2026-01-30T10:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.277
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T10-45-00Z",
-      "dateTime": "2026-01-30T10:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.15
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T12-00-00Z",
-      "dateTime": "2026-01-30T12:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.701
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T11-15-00Z",
-      "dateTime": "2026-01-30T11:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.974
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T11-30-00Z",
-      "dateTime": "2026-01-30T11:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.874
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T11-45-00Z",
-      "dateTime": "2026-01-30T11:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.825
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T13-15-00Z",
-      "dateTime": "2026-01-30T13:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.083
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T12-45-00Z",
-      "dateTime": "2026-01-30T12:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.175
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T13-00-00Z",
-      "dateTime": "2026-01-30T13:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.637
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T12-30-00Z",
-      "dateTime": "2026-01-30T12:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.924
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T12-15-00Z",
-      "dateTime": "2026-01-30T12:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.677
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T14-00-00Z",
-      "dateTime": "2026-01-30T14:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.11
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T13-45-00Z",
-      "dateTime": "2026-01-30T13:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.977
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T13-30-00Z",
-      "dateTime": "2026-01-30T13:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.898
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T15-00-00Z",
-      "dateTime": "2026-01-30T15:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.622
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T14-45-00Z",
-      "dateTime": "2026-01-30T14:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.243
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T14-15-00Z",
-      "dateTime": "2026-01-30T14:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.924
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T14-30-00Z",
-      "dateTime": "2026-01-30T14:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.004
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T16-00-00Z",
-      "dateTime": "2026-01-30T16:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 12.192
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T15-30-00Z",
-      "dateTime": "2026-01-30T15:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.685
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T15-45-00Z",
-      "dateTime": "2026-01-30T15:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.471
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T15-15-00Z",
-      "dateTime": "2026-01-30T15:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.091
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T17-00-00Z",
-      "dateTime": "2026-01-30T17:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.503
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T16-30-00Z",
-      "dateTime": "2026-01-30T16:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.059
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T16-15-00Z",
-      "dateTime": "2026-01-30T16:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 12.684
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T16-45-00Z",
-      "dateTime": "2026-01-30T16:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.28
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T18-00-00Z",
-      "dateTime": "2026-01-30T18:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.248
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T17-15-00Z",
-      "dateTime": "2026-01-30T17:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.567
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T17-45-00Z",
-      "dateTime": "2026-01-30T17:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.439
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T17-30-00Z",
-      "dateTime": "2026-01-30T17:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.535
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T19-00-00Z",
-      "dateTime": "2026-01-30T19:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 12.376
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T18-15-00Z",
-      "dateTime": "2026-01-30T18:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 13.091
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T18-30-00Z",
-      "dateTime": "2026-01-30T18:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 12.902
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T18-45-00Z",
-      "dateTime": "2026-01-30T18:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 12.56
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T20-00-00Z",
-      "dateTime": "2026-01-30T20:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.501
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T19-30-00Z",
-      "dateTime": "2026-01-30T19:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.95
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T19-15-00Z",
-      "dateTime": "2026-01-30T19:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 12.192
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T19-45-00Z",
-      "dateTime": "2026-01-30T19:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.65
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T21-00-00Z",
-      "dateTime": "2026-01-30T21:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.857
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T20-15-00Z",
-      "dateTime": "2026-01-30T20:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.324
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T20-30-00Z",
-      "dateTime": "2026-01-30T20:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.177
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T20-45-00Z",
-      "dateTime": "2026-01-30T20:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.886
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T22-00-00Z",
-      "dateTime": "2026-01-30T22:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.259
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T21-30-00Z",
-      "dateTime": "2026-01-30T21:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.742
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T21-15-00Z",
-      "dateTime": "2026-01-30T21:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 11.353
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T21-45-00Z",
-      "dateTime": "2026-01-30T21:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.457
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T23-00-00Z",
-      "dateTime": "2026-01-30T23:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.459
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T22-45-00Z",
-      "dateTime": "2026-01-30T22:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.731
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T22-30-00Z",
-      "dateTime": "2026-01-30T22:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.924
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T22-15-00Z",
-      "dateTime": "2026-01-30T22:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 10.063
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T00-00-00Z",
-      "dateTime": "2026-01-31T00:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.004
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T23-45-00Z",
-      "dateTime": "2026-01-30T23:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.03
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T23-15-00Z",
-      "dateTime": "2026-01-30T23:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.351
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-30T23-30-00Z",
-      "dateTime": "2026-01-30T23:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 9.27
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T01-00-00Z",
-      "dateTime": "2026-01-31T01:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.456
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T00-15-00Z",
-      "dateTime": "2026-01-31T00:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.819
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T00-30-00Z",
-      "dateTime": "2026-01-31T00:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.741
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T00-45-00Z",
-      "dateTime": "2026-01-31T00:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.507
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T02-00-00Z",
-      "dateTime": "2026-01-31T02:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.999
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T01-45-00Z",
-      "dateTime": "2026-01-31T01:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.125
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T01-30-00Z",
-      "dateTime": "2026-01-31T01:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.125
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T01-15-00Z",
-      "dateTime": "2026-01-31T01:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 8.353
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T03-00-00Z",
-      "dateTime": "2026-01-31T03:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.53
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T02-45-00Z",
-      "dateTime": "2026-01-31T02:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.726
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T02-15-00Z",
-      "dateTime": "2026-01-31T02:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.825
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T02-30-00Z",
-      "dateTime": "2026-01-31T02:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.8
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T04-00-00Z",
-      "dateTime": "2026-01-31T04:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.264
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T03-45-00Z",
-      "dateTime": "2026-01-31T03:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.36
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T03-15-00Z",
-      "dateTime": "2026-01-31T03:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.433
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T03-30-00Z",
-      "dateTime": "2026-01-31T03:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.408
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T05-00-00Z",
-      "dateTime": "2026-01-31T05:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.932
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T04-45-00Z",
-      "dateTime": "2026-01-31T04:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.026
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T04-30-00Z",
-      "dateTime": "2026-01-31T04:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.074
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T04-15-00Z",
-      "dateTime": "2026-01-31T04:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 7.145
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T06-00-00Z",
-      "dateTime": "2026-01-31T06:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.654
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T05-30-00Z",
-      "dateTime": "2026-01-31T05:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.839
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T05-15-00Z",
-      "dateTime": "2026-01-31T05:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.862
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T05-45-00Z",
-      "dateTime": "2026-01-31T05:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.723
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T07-00-00Z",
-      "dateTime": "2026-01-31T07:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.494
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T06-15-00Z",
-      "dateTime": "2026-01-31T06:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.654
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T06-30-00Z",
-      "dateTime": "2026-01-31T06:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.585
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T06-45-00Z",
-      "dateTime": "2026-01-31T06:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.494
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T08-00-00Z",
-      "dateTime": "2026-01-31T08:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.223
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T07-15-00Z",
-      "dateTime": "2026-01-31T07:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.403
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T07-30-00Z",
-      "dateTime": "2026-01-31T07:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.358
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T07-45-00Z",
-      "dateTime": "2026-01-31T07:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.335
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T09-00-00Z",
-      "dateTime": "2026-01-31T09:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.046
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T08-15-00Z",
-      "dateTime": "2026-01-31T08:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.201
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T08-30-00Z",
-      "dateTime": "2026-01-31T08:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.179
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T08-45-00Z",
-      "dateTime": "2026-01-31T08:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.134
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T10-00-00Z",
-      "dateTime": "2026-01-31T10:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.915
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T09-30-00Z",
-      "dateTime": "2026-01-31T09:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.958
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T09-45-00Z",
-      "dateTime": "2026-01-31T09:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.98
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T09-15-00Z",
-      "dateTime": "2026-01-31T09:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.024
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T11-00-00Z",
-      "dateTime": "2026-01-31T11:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.828
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T10-15-00Z",
-      "dateTime": "2026-01-31T10:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.915
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T10-45-00Z",
-      "dateTime": "2026-01-31T10:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.828
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T10-30-00Z",
-      "dateTime": "2026-01-31T10:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.871
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T12-00-00Z",
-      "dateTime": "2026-01-31T12:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.85
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T11-45-00Z",
-      "dateTime": "2026-01-31T11:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.806
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T11-15-00Z",
-      "dateTime": "2026-01-31T11:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.828
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T11-30-00Z",
-      "dateTime": "2026-01-31T11:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.806
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T13-00-00Z",
-      "dateTime": "2026-01-31T13:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.678
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T12-30-00Z",
-      "dateTime": "2026-01-31T12:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.742
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T12-15-00Z",
-      "dateTime": "2026-01-31T12:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.72
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T12-45-00Z",
-      "dateTime": "2026-01-31T12:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.699
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T14-00-00Z",
-      "dateTime": "2026-01-31T14:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.571
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T13-45-00Z",
-      "dateTime": "2026-01-31T13:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.614
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T13-30-00Z",
-      "dateTime": "2026-01-31T13:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.614
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T13-15-00Z",
-      "dateTime": "2026-01-31T13:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.635
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T15-00-00Z",
-      "dateTime": "2026-01-31T15:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.699
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T14-30-00Z",
-      "dateTime": "2026-01-31T14:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.656
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T14-15-00Z",
-      "dateTime": "2026-01-31T14:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.656
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T14-45-00Z",
-      "dateTime": "2026-01-31T14:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.742
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T16-00-00Z",
-      "dateTime": "2026-01-31T16:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.742
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T15-30-00Z",
-      "dateTime": "2026-01-31T15:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.763
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T15-45-00Z",
-      "dateTime": "2026-01-31T15:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.763
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T15-15-00Z",
-      "dateTime": "2026-01-31T15:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.678
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T17-00-00Z",
-      "dateTime": "2026-01-31T17:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.742
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T16-15-00Z",
-      "dateTime": "2026-01-31T16:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.72
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T16-30-00Z",
-      "dateTime": "2026-01-31T16:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.742
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T16-45-00Z",
-      "dateTime": "2026-01-31T16:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.785
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T18-00-00Z",
-      "dateTime": "2026-01-31T18:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.85
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T17-15-00Z",
-      "dateTime": "2026-01-31T17:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.828
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T17-30-00Z",
-      "dateTime": "2026-01-31T17:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.806
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T17-45-00Z",
-      "dateTime": "2026-01-31T17:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.828
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T19-00-00Z",
-      "dateTime": "2026-01-31T19:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.893
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T18-45-00Z",
-      "dateTime": "2026-01-31T18:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.893
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T18-15-00Z",
-      "dateTime": "2026-01-31T18:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.828
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T18-30-00Z",
-      "dateTime": "2026-01-31T18:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.871
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T20-00-00Z",
-      "dateTime": "2026-01-31T20:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.046
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T19-45-00Z",
-      "dateTime": "2026-01-31T19:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.046
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T19-30-00Z",
-      "dateTime": "2026-01-31T19:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.002
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T19-15-00Z",
-      "dateTime": "2026-01-31T19:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.98
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T21-00-00Z",
-      "dateTime": "2026-01-31T21:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.068
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T20-15-00Z",
-      "dateTime": "2026-01-31T20:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.046
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T20-45-00Z",
-      "dateTime": "2026-01-31T20:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.046
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T20-30-00Z",
-      "dateTime": "2026-01-31T20:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.068
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T22-00-00Z",
-      "dateTime": "2026-01-31T22:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.002
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T21-45-00Z",
-      "dateTime": "2026-01-31T21:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.002
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T21-15-00Z",
-      "dateTime": "2026-01-31T21:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.002
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T21-30-00Z",
-      "dateTime": "2026-01-31T21:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 6.024
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T23-00-00Z",
-      "dateTime": "2026-01-31T23:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.828
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T22-30-00Z",
-      "dateTime": "2026-01-31T22:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.893
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T22-15-00Z",
-      "dateTime": "2026-01-31T22:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.937
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T22-45-00Z",
-      "dateTime": "2026-01-31T22:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.871
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-01T00-00-00Z",
       "dateTime": "2026-02-01T00:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
       "value": 5.763
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T23-45-00Z",
-      "dateTime": "2026-01-31T23:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.806
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T23-15-00Z",
-      "dateTime": "2026-01-31T23:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.85
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-01-31T23-30-00Z",
-      "dateTime": "2026-01-31T23:30:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
-      "value": 5.828
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-01T01-00-00Z",
@@ -3014,6 +1862,1158 @@
       "dateTime": "2026-02-04T04:30:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
       "value": 5.258
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T04-15-00Z",
+      "dateTime": "2026-02-04T04:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.299
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T06-00-00Z",
+      "dateTime": "2026-02-04T06:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.114
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T05-15-00Z",
+      "dateTime": "2026-02-04T05:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.176
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T05-45-00Z",
+      "dateTime": "2026-02-04T05:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.114
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T05-30-00Z",
+      "dateTime": "2026-02-04T05:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.196
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T07-00-00Z",
+      "dateTime": "2026-02-04T07:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.993
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T06-30-00Z",
+      "dateTime": "2026-02-04T06:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.053
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T06-45-00Z",
+      "dateTime": "2026-02-04T06:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.053
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T06-15-00Z",
+      "dateTime": "2026-02-04T06:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.074
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T08-00-00Z",
+      "dateTime": "2026-02-04T08:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.913
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T07-45-00Z",
+      "dateTime": "2026-02-04T07:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.953
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T07-30-00Z",
+      "dateTime": "2026-02-04T07:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.973
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T07-15-00Z",
+      "dateTime": "2026-02-04T07:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.993
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T09-00-00Z",
+      "dateTime": "2026-02-04T09:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.893
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T08-45-00Z",
+      "dateTime": "2026-02-04T08:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.933
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T08-15-00Z",
+      "dateTime": "2026-02-04T08:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.913
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T08-30-00Z",
+      "dateTime": "2026-02-04T08:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.913
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T10-00-00Z",
+      "dateTime": "2026-02-04T10:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.833
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T09-30-00Z",
+      "dateTime": "2026-02-04T09:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.893
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T09-15-00Z",
+      "dateTime": "2026-02-04T09:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.793
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T09-45-00Z",
+      "dateTime": "2026-02-04T09:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.813
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T11-15-00Z",
+      "dateTime": "2026-02-04T11:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.676
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T10-15-00Z",
+      "dateTime": "2026-02-04T10:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.754
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T11-00-00Z",
+      "dateTime": "2026-02-04T11:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.734
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T10-45-00Z",
+      "dateTime": "2026-02-04T10:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.695
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T10-30-00Z",
+      "dateTime": "2026-02-04T10:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.754
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T12-00-00Z",
+      "dateTime": "2026-02-04T12:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.617
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T11-30-00Z",
+      "dateTime": "2026-02-04T11:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.637
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T11-45-00Z",
+      "dateTime": "2026-02-04T11:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.598
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T13-00-00Z",
+      "dateTime": "2026-02-04T13:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.598
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T12-15-00Z",
+      "dateTime": "2026-02-04T12:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.617
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T12-30-00Z",
+      "dateTime": "2026-02-04T12:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.598
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T12-45-00Z",
+      "dateTime": "2026-02-04T12:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.578
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T14-15-00Z",
+      "dateTime": "2026-02-04T14:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.617
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T13-45-00Z",
+      "dateTime": "2026-02-04T13:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.598
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T13-15-00Z",
+      "dateTime": "2026-02-04T13:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.54
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T13-30-00Z",
+      "dateTime": "2026-02-04T13:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.578
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T14-00-00Z",
+      "dateTime": "2026-02-04T14:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.774
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T15-15-00Z",
+      "dateTime": "2026-02-04T15:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.482
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T14-45-00Z",
+      "dateTime": "2026-02-04T14:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.501
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T14-30-00Z",
+      "dateTime": "2026-02-04T14:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.578
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T15-00-00Z",
+      "dateTime": "2026-02-04T15:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.482
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T16-00-00Z",
+      "dateTime": "2026-02-04T16:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.482
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T15-30-00Z",
+      "dateTime": "2026-02-04T15:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.463
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T15-45-00Z",
+      "dateTime": "2026-02-04T15:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.463
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T17-00-00Z",
+      "dateTime": "2026-02-04T17:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.444
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T16-15-00Z",
+      "dateTime": "2026-02-04T16:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.463
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T16-45-00Z",
+      "dateTime": "2026-02-04T16:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.425
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T16-30-00Z",
+      "dateTime": "2026-02-04T16:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.444
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T18-00-00Z",
+      "dateTime": "2026-02-04T18:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.368
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T17-15-00Z",
+      "dateTime": "2026-02-04T17:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.349
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T17-45-00Z",
+      "dateTime": "2026-02-04T17:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.368
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T17-30-00Z",
+      "dateTime": "2026-02-04T17:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.368
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T19-00-00Z",
+      "dateTime": "2026-02-04T19:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.387
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T18-30-00Z",
+      "dateTime": "2026-02-04T18:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.33
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T18-45-00Z",
+      "dateTime": "2026-02-04T18:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.33
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T18-15-00Z",
+      "dateTime": "2026-02-04T18:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.33
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T20-00-00Z",
+      "dateTime": "2026-02-04T20:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.293
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T19-15-00Z",
+      "dateTime": "2026-02-04T19:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.312
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T19-30-00Z",
+      "dateTime": "2026-02-04T19:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.293
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T19-45-00Z",
+      "dateTime": "2026-02-04T19:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.349
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T21-00-00Z",
+      "dateTime": "2026-02-04T21:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.274
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T20-15-00Z",
+      "dateTime": "2026-02-04T20:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.312
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T20-30-00Z",
+      "dateTime": "2026-02-04T20:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.293
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T20-45-00Z",
+      "dateTime": "2026-02-04T20:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.293
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T22-00-00Z",
+      "dateTime": "2026-02-04T22:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.237
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T21-45-00Z",
+      "dateTime": "2026-02-04T21:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.218
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T21-15-00Z",
+      "dateTime": "2026-02-04T21:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.255
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T21-30-00Z",
+      "dateTime": "2026-02-04T21:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.255
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T23-00-00Z",
+      "dateTime": "2026-02-04T23:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.107
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T22-45-00Z",
+      "dateTime": "2026-02-04T22:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.181
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T22-15-00Z",
+      "dateTime": "2026-02-04T22:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.199
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T22-30-00Z",
+      "dateTime": "2026-02-04T22:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.218
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T00-00-00Z",
+      "dateTime": "2026-02-05T00:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.162
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T23-45-00Z",
+      "dateTime": "2026-02-04T23:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.199
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T23-30-00Z",
+      "dateTime": "2026-02-04T23:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.181
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-04T23-15-00Z",
+      "dateTime": "2026-02-04T23:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.107
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T01-00-00Z",
+      "dateTime": "2026-02-05T01:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.144
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T00-15-00Z",
+      "dateTime": "2026-02-05T00:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.107
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T00-30-00Z",
+      "dateTime": "2026-02-05T00:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.125
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T00-45-00Z",
+      "dateTime": "2026-02-05T00:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.089
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T02-00-00Z",
+      "dateTime": "2026-02-05T02:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.293
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T01-15-00Z",
+      "dateTime": "2026-02-05T01:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.089
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T01-45-00Z",
+      "dateTime": "2026-02-05T01:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.162
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T01-30-00Z",
+      "dateTime": "2026-02-05T01:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.089
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T03-00-00Z",
+      "dateTime": "2026-02-05T03:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.114
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T02-45-00Z",
+      "dateTime": "2026-02-05T02:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.114
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T02-30-00Z",
+      "dateTime": "2026-02-05T02:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.033
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T02-15-00Z",
+      "dateTime": "2026-02-05T02:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.463
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T04-00-00Z",
+      "dateTime": "2026-02-05T04:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.833
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T03-45-00Z",
+      "dateTime": "2026-02-05T03:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.833
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T03-30-00Z",
+      "dateTime": "2026-02-05T03:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.774
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T03-15-00Z",
+      "dateTime": "2026-02-05T03:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 4.873
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T05-00-00Z",
+      "dateTime": "2026-02-05T05:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.258
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T04-45-00Z",
+      "dateTime": "2026-02-05T04:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.299
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T04-15-00Z",
+      "dateTime": "2026-02-05T04:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.094
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T04-30-00Z",
+      "dateTime": "2026-02-05T04:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.382
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T06-00-00Z",
+      "dateTime": "2026-02-05T06:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.806
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T05-30-00Z",
+      "dateTime": "2026-02-05T05:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.341
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T05-45-00Z",
+      "dateTime": "2026-02-05T05:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.403
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T05-15-00Z",
+      "dateTime": "2026-02-05T05:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.278
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T07-00-00Z",
+      "dateTime": "2026-02-05T07:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 7.457
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T06-15-00Z",
+      "dateTime": "2026-02-05T06:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 5.98
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T06-45-00Z",
+      "dateTime": "2026-02-05T06:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 6.723
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T06-30-00Z",
+      "dateTime": "2026-02-05T06:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 6.335
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T08-00-00Z",
+      "dateTime": "2026-02-05T08:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.217
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T07-30-00Z",
+      "dateTime": "2026-02-05T07:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.353
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T07-15-00Z",
+      "dateTime": "2026-02-05T07:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 7.999
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T07-45-00Z",
+      "dateTime": "2026-02-05T07:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.846
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T09-00-00Z",
+      "dateTime": "2026-02-05T09:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.599
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T08-15-00Z",
+      "dateTime": "2026-02-05T08:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.622
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T08-30-00Z",
+      "dateTime": "2026-02-05T08:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.952
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T08-45-00Z",
+      "dateTime": "2026-02-05T08:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.315
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T10-00-00Z",
+      "dateTime": "2026-02-05T10:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 11.002
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T09-15-00Z",
+      "dateTime": "2026-02-05T09:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.742
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T09-45-00Z",
+      "dateTime": "2026-02-05T09:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.915
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T09-30-00Z",
+      "dateTime": "2026-02-05T09:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.829
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T11-15-00Z",
+      "dateTime": "2026-02-05T11:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 11.148
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T11-00-00Z",
+      "dateTime": "2026-02-05T11:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 11.56
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T10-15-00Z",
+      "dateTime": "2026-02-05T10:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 11.265
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T10-45-00Z",
+      "dateTime": "2026-02-05T10:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 11.89
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T10-30-00Z",
+      "dateTime": "2026-02-05T10:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 12.315
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T12-15-00Z",
+      "dateTime": "2026-02-05T12:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.542
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T12-00-00Z",
+      "dateTime": "2026-02-05T12:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.599
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T11-45-00Z",
+      "dateTime": "2026-02-05T11:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.685
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T11-30-00Z",
+      "dateTime": "2026-02-05T11:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 11.002
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T13-00-00Z",
+      "dateTime": "2026-02-05T13:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.542
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T12-45-00Z",
+      "dateTime": "2026-02-05T12:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.457
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T12-30-00Z",
+      "dateTime": "2026-02-05T12:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.514
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T14-00-00Z",
+      "dateTime": "2026-02-05T14:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.829
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T13-45-00Z",
+      "dateTime": "2026-02-05T13:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.771
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T13-15-00Z",
+      "dateTime": "2026-02-05T13:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.571
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T13-30-00Z",
+      "dateTime": "2026-02-05T13:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.656
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T15-00-00Z",
+      "dateTime": "2026-02-05T15:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.886
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T14-15-00Z",
+      "dateTime": "2026-02-05T14:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.886
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T14-45-00Z",
+      "dateTime": "2026-02-05T14:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.944
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T14-30-00Z",
+      "dateTime": "2026-02-05T14:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.829
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T16-15-00Z",
+      "dateTime": "2026-02-05T16:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.542
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T15-30-00Z",
+      "dateTime": "2026-02-05T15:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.685
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T15-15-00Z",
+      "dateTime": "2026-02-05T15:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.685
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T15-45-00Z",
+      "dateTime": "2026-02-05T15:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.571
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T16-00-00Z",
+      "dateTime": "2026-02-05T16:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.542
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T17-00-00Z",
+      "dateTime": "2026-02-05T17:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.571
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T16-30-00Z",
+      "dateTime": "2026-02-05T16:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.599
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T16-45-00Z",
+      "dateTime": "2026-02-05T16:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.685
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T18-00-00Z",
+      "dateTime": "2026-02-05T18:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.457
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T17-30-00Z",
+      "dateTime": "2026-02-05T17:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.628
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T17-15-00Z",
+      "dateTime": "2026-02-05T17:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.628
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T17-45-00Z",
+      "dateTime": "2026-02-05T17:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.628
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T19-00-00Z",
+      "dateTime": "2026-02-05T19:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.119
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T18-30-00Z",
+      "dateTime": "2026-02-05T18:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.315
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T18-15-00Z",
+      "dateTime": "2026-02-05T18:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.372
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T18-45-00Z",
+      "dateTime": "2026-02-05T18:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 10.259
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T20-00-00Z",
+      "dateTime": "2026-02-05T20:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.595
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T19-45-00Z",
+      "dateTime": "2026-02-05T19:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.677
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T19-30-00Z",
+      "dateTime": "2026-02-05T19:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.841
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T19-15-00Z",
+      "dateTime": "2026-02-05T19:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.98
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T21-00-00Z",
+      "dateTime": "2026-02-05T21:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.217
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T20-45-00Z",
+      "dateTime": "2026-02-05T20:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.19
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T20-30-00Z",
+      "dateTime": "2026-02-05T20:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.432
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T20-15-00Z",
+      "dateTime": "2026-02-05T20:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.595
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T22-00-00Z",
+      "dateTime": "2026-02-05T22:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.924
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T21-45-00Z",
+      "dateTime": "2026-02-05T21:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.977
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T21-30-00Z",
+      "dateTime": "2026-02-05T21:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.951
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T21-15-00Z",
+      "dateTime": "2026-02-05T21:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.217
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T23-00-00Z",
+      "dateTime": "2026-02-05T23:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.03
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T22-45-00Z",
+      "dateTime": "2026-02-05T22:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.057
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T22-15-00Z",
+      "dateTime": "2026-02-05T22:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.951
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T22-30-00Z",
+      "dateTime": "2026-02-05T22:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.951
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T00-00-00Z",
+      "dateTime": "2026-02-06T00:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.513
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T23-45-00Z",
+      "dateTime": "2026-02-05T23:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.486
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T23-15-00Z",
+      "dateTime": "2026-02-05T23:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.27
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-05T23-30-00Z",
+      "dateTime": "2026-02-05T23:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.486
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T01-00-00Z",
+      "dateTime": "2026-02-06T01:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.432
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T00-15-00Z",
+      "dateTime": "2026-02-06T00:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.567
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T00-45-00Z",
+      "dateTime": "2026-02-06T00:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.54
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T00-30-00Z",
+      "dateTime": "2026-02-06T00:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.595
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T02-00-00Z",
+      "dateTime": "2026-02-06T02:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.951
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T01-15-00Z",
+      "dateTime": "2026-02-06T01:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.297
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T01-30-00Z",
+      "dateTime": "2026-02-06T01:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.27
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T01-45-00Z",
+      "dateTime": "2026-02-06T01:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 9.136
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T03-00-00Z",
+      "dateTime": "2026-02-06T03:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.663
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T02-15-00Z",
+      "dateTime": "2026-02-06T02:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.846
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T02-30-00Z",
+      "dateTime": "2026-02-06T02:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.793
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T02-45-00Z",
+      "dateTime": "2026-02-06T02:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.585
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T04-00-00Z",
+      "dateTime": "2026-02-06T04:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 7.974
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T03-15-00Z",
+      "dateTime": "2026-02-06T03:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.637
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T03-30-00Z",
+      "dateTime": "2026-02-06T03:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.43
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T03-45-00Z",
+      "dateTime": "2026-02-06T03:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 8.226
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T05-00-00Z",
+      "dateTime": "2026-02-06T05:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 7.652
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T04-30-00Z",
+      "dateTime": "2026-02-06T04:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 7.75
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SX65F051-flow-water-i-15_min-m3_s/2026-02-06T04-15-00Z",
+      "dateTime": "2026-02-06T04:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SX65F051-flow-water-i-15_min-m3_s",
+      "value": 7.974
     }
   ]
 }
