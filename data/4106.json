@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/4106/readings.csv?startdate=2025-08-01&enddate=2026-03-13",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/4106/readings.rdf?startdate=2025-08-01&enddate=2026-03-13",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/4106/readings.ttl?startdate=2025-08-01&enddate=2026-03-13",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/4106/readings.html?startdate=2025-08-01&enddate=2026-03-13"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/4106/readings.csv?startdate=2025-08-01&enddate=2026-03-14",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/4106/readings.rdf?startdate=2025-08-01&enddate=2026-03-14",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/4106/readings.ttl?startdate=2025-08-01&enddate=2026-03-14",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/4106/readings.html?startdate=2025-08-01&enddate=2026-03-14"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/4106-level-reservoir_level-i-15_min-mBDAT/2026-02-12T14-00-00Z",
-      "dateTime": "2026-02-12T14:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/4106-level-reservoir_level-i-15_min-mBDAT",
-      "value": -0.042
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/4106-level-reservoir_level-i-15_min-mBDAT/2025-12-27T19-15-00Z",
       "dateTime": "2025-12-27T19:15:00Z",
@@ -3012,6 +3006,12 @@
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/4106-level-reservoir_level-i-15_min-mBDAT/2025-12-22T12-15-00Z",
       "dateTime": "2025-12-22T12:15:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/4106-level-reservoir_level-i-15_min-mBDAT",
+      "value": 0.132
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/4106-level-reservoir_level-i-15_min-mBDAT/2025-12-22T14-00-00Z",
+      "dateTime": "2025-12-22T14:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/4106-level-reservoir_level-i-15_min-mBDAT",
       "value": 0.132
     }
