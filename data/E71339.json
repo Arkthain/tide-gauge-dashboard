@@ -7,12 +7,25 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E71339/readings.csv?startdate=2025-08-01&enddate=2026-03-17",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E71339/readings.rdf?startdate=2025-08-01&enddate=2026-03-17",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E71339/readings.ttl?startdate=2025-08-01&enddate=2026-03-17",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/E71339/readings.html?startdate=2025-08-01&enddate=2026-03-17"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E71339/readings.csv?startdate=2025-08-01&enddate=2026-03-18",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E71339/readings.rdf?startdate=2025-08-01&enddate=2026-03-18",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E71339/readings.ttl?startdate=2025-08-01&enddate=2026-03-18",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/E71339/readings.html?startdate=2025-08-01&enddate=2026-03-18"
     ],
     "limit": 500
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E71339-level-tidal_level-Mean-15_min-mAOD/2026-03-17T12-23-54Z",
+      "dateTime": "2026-03-17T12:23:54Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E71339-level-tidal_level-Mean-15_min-mAOD",
+      "value": 1.082
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E71339-level-tidal_level-Mean-15_min-mAOD/2026-03-17T12-17-48Z",
+      "dateTime": "2026-03-17T12:17:48Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E71339-level-tidal_level-Mean-15_min-mAOD",
+      "value": 1.004
+    }
+  ]
 }
