@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/47158_/readings.csv?startdate=2025-08-01&enddate=2026-03-18",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/47158_/readings.rdf?startdate=2025-08-01&enddate=2026-03-18",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/47158_/readings.ttl?startdate=2025-08-01&enddate=2026-03-18",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/47158_/readings.html?startdate=2025-08-01&enddate=2026-03-18"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/47158_/readings.csv?startdate=2025-08-01&enddate=2026-03-19",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/47158_/readings.rdf?startdate=2025-08-01&enddate=2026-03-19",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/47158_/readings.ttl?startdate=2025-08-01&enddate=2026-03-19",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/47158_/readings.html?startdate=2025-08-01&enddate=2026-03-19"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/47158_-rainfall-tipping_bucket_raingauge-t-15_min-mm/2026-02-17T09-15-00Z",
-      "dateTime": "2026-02-17T09:15:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/47158_-rainfall-tipping_bucket_raingauge-t-15_min-mm",
-      "value": 0.0
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/47158_-rainfall-tipping_bucket_raingauge-t-15_min-mm/2025-08-23T06-00-00Z",
       "dateTime": "2025-08-23T06:00:00Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2025-08-28T11:45:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/47158_-rainfall-tipping_bucket_raingauge-t-15_min-mm",
       "value": 0.0
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/47158_-rainfall-tipping_bucket_raingauge-t-15_min-mm/2025-08-28T09-45-00Z",
+      "dateTime": "2025-08-28T09:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/47158_-rainfall-tipping_bucket_raingauge-t-15_min-mm",
+      "value": 0.02
     }
   ]
 }
