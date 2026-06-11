@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/44141/readings.csv?startdate=2025-08-01&enddate=2026-06-10",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/44141/readings.rdf?startdate=2025-08-01&enddate=2026-06-10",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/44141/readings.ttl?startdate=2025-08-01&enddate=2026-06-10",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/44141/readings.html?startdate=2025-08-01&enddate=2026-06-10"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/44141/readings.csv?startdate=2025-08-01&enddate=2026-06-11",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/44141/readings.rdf?startdate=2025-08-01&enddate=2026-06-11",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/44141/readings.ttl?startdate=2025-08-01&enddate=2026-06-11",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/44141/readings.html?startdate=2025-08-01&enddate=2026-06-11"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/44141-level-stage-i-15_min-m/2026-05-12T00-00-00Z",
-      "dateTime": "2026-05-12T00:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/44141-level-stage-i-15_min-m",
-      "value": 0.331
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/44141-level-stage-i-15_min-m/2026-05-14T09-15-00Z",
       "dateTime": "2026-05-14T09:15:00Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2026-05-19T13:45:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/44141-level-stage-i-15_min-m",
       "value": 0.379
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/44141-level-stage-i-15_min-m/2026-05-19T14-00-00Z",
+      "dateTime": "2026-05-19T14:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/44141-level-stage-i-15_min-m",
+      "value": 0.375
     }
   ]
 }
