@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SU07_6/readings.csv?startdate=2025-08-01&enddate=2026-06-29",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SU07_6/readings.rdf?startdate=2025-08-01&enddate=2026-06-29",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SU07_6/readings.ttl?startdate=2025-08-01&enddate=2026-06-29",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/SU07_6/readings.html?startdate=2025-08-01&enddate=2026-06-29"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SU07_6/readings.csv?startdate=2025-08-01&enddate=2026-06-30",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SU07_6/readings.rdf?startdate=2025-08-01&enddate=2026-06-30",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SU07_6/readings.ttl?startdate=2025-08-01&enddate=2026-06-30",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/SU07_6/readings.html?startdate=2025-08-01&enddate=2026-06-30"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SU07_6-level-groundwater-i-1_h-mAOD/2026-05-31T08-00-00Z",
-      "dateTime": "2026-05-31T08:00:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SU07_6-level-groundwater-i-1_h-mAOD",
-      "value": 152.269
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SU07_6-level-groundwater-i-1_h-mAOD/2026-06-01T08-00-00Z",
       "dateTime": "2026-06-01T08:00:00Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2026-06-21T20:00:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SU07_6-level-groundwater-i-1_h-mAOD",
       "value": 150.91
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/SU07_6-level-groundwater-i-1_h-mAOD/2026-06-21T16-00-00Z",
+      "dateTime": "2026-06-21T16:00:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/SU07_6-level-groundwater-i-1_h-mAOD",
+      "value": 150.919
     }
   ]
 }
