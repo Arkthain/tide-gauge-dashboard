@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/T374401/readings.csv?startdate=2025-08-01&enddate=2026-07-24",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/T374401/readings.rdf?startdate=2025-08-01&enddate=2026-07-24",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/T374401/readings.ttl?startdate=2025-08-01&enddate=2026-07-24",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/T374401/readings.html?startdate=2025-08-01&enddate=2026-07-24"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/T374401/readings.csv?startdate=2025-08-01&enddate=2026-07-25",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/T374401/readings.rdf?startdate=2025-08-01&enddate=2026-07-25",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/T374401/readings.ttl?startdate=2025-08-01&enddate=2026-07-25",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/T374401/readings.html?startdate=2025-08-01&enddate=2026-07-25"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/T374401-level-tidal_level-i-15_min-mAOD/2026-06-25T10-45-00Z",
-      "dateTime": "2026-06-25T10:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/T374401-level-tidal_level-i-15_min-mAOD",
-      "value": 1.19
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/T374401-level-tidal_level-i-15_min-mAOD/2026-05-02T06-00-00Z",
       "dateTime": "2026-05-02T06:00:00Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2026-02-09T02:15:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/T374401-level-tidal_level-i-15_min-mAOD",
       "value": 0.758
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/T374401-level-tidal_level-i-15_min-mAOD/2026-02-09T02-45-00Z",
+      "dateTime": "2026-02-09T02:45:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/T374401-level-tidal_level-i-15_min-mAOD",
+      "value": 1.179
     }
   ]
 }
