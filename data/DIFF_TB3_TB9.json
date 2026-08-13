@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/DIFF_TB3_TB9/readings.csv?startdate=2025-08-01&enddate=2026-08-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/DIFF_TB3_TB9/readings.rdf?startdate=2025-08-01&enddate=2026-08-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/DIFF_TB3_TB9/readings.ttl?startdate=2025-08-01&enddate=2026-08-12",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/DIFF_TB3_TB9/readings.html?startdate=2025-08-01&enddate=2026-08-12"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/DIFF_TB3_TB9/readings.csv?startdate=2025-08-01&enddate=2026-08-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/DIFF_TB3_TB9/readings.rdf?startdate=2025-08-01&enddate=2026-08-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/DIFF_TB3_TB9/readings.ttl?startdate=2025-08-01&enddate=2026-08-13",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/DIFF_TB3_TB9/readings.html?startdate=2025-08-01&enddate=2026-08-13"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/DIFF_TB3_TB9-level-tidal_level-i-15_min-m/2026-07-14T23-59-10Z",
-      "dateTime": "2026-07-14T23:59:10Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/DIFF_TB3_TB9-level-tidal_level-i-15_min-m",
-      "value": 3.406
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/DIFF_TB3_TB9-level-tidal_level-i-15_min-m/2026-07-15T23-59-10Z",
       "dateTime": "2026-07-15T23:59:10Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2026-07-18T09:31:10Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/DIFF_TB3_TB9-level-tidal_level-i-15_min-m",
       "value": 4.374
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/DIFF_TB3_TB9-level-tidal_level-i-15_min-m/2026-07-18T09-38-10Z",
+      "dateTime": "2026-07-18T09:38:10Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/DIFF_TB3_TB9-level-tidal_level-i-15_min-m",
+      "value": 4.47
     }
   ]
 }
