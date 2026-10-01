@@ -7,20 +7,14 @@
     "version": "0.9",
     "comment": "Status: Beta service",
     "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/4093/readings.csv?startdate=2025-08-01&enddate=2026-09-30",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/4093/readings.rdf?startdate=2025-08-01&enddate=2026-09-30",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/4093/readings.ttl?startdate=2025-08-01&enddate=2026-09-30",
-      "http://environment.data.gov.uk/flood-monitoring/id/stations/4093/readings.html?startdate=2025-08-01&enddate=2026-09-30"
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/4093/readings.csv?startdate=2025-08-01&enddate=2026-10-01",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/4093/readings.rdf?startdate=2025-08-01&enddate=2026-10-01",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/4093/readings.ttl?startdate=2025-08-01&enddate=2026-10-01",
+      "http://environment.data.gov.uk/flood-monitoring/id/stations/4093/readings.html?startdate=2025-08-01&enddate=2026-10-01"
     ],
     "limit": 500
   },
   "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/4093-flow-logged-i-15_min-m3_s/2026-09-01T12-45-00Z",
-      "dateTime": "2026-09-01T12:45:00Z",
-      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/4093-flow-logged-i-15_min-m3_s",
-      "value": 4.663
-    },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/4093-flow-logged-i-15_min-m3_s/2026-06-14T18-45-00Z",
       "dateTime": "2026-06-14T18:45:00Z",
@@ -3014,6 +3008,12 @@
       "dateTime": "2026-07-29T04:15:00Z",
       "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/4093-flow-logged-i-15_min-m3_s",
       "value": 2.698
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/4093-flow-logged-i-15_min-m3_s/2026-07-29T19-30-00Z",
+      "dateTime": "2026-07-29T19:30:00Z",
+      "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/4093-flow-logged-i-15_min-m3_s",
+      "value": 2.633
     }
   ]
 }
